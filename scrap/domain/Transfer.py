@@ -1,5 +1,6 @@
 import csv
 
+
 class Transfer:
     def __init__(self, season, player, age, pos, joined, left, mv, fee):
         self.season = season

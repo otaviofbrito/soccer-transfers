@@ -10,8 +10,9 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
 }
 
-LEAGUE = 'GB1'
-START_SEASON = 2022
+LEAGUES = ['BRA1', 'GB1', 'IT1', 'ES1', 'L1', 'FR1', 'TR1', 'SA1', 'JAP1', 'CSL', 'UAE1', 'RSK1', 'QSL',
+           'IRN1', 'IN1L', 'GR1', 'KR1', 'TS1', 'DK1', 'SER1', 'RO1', 'SE1', 'UNG1', 'ZYP1', 'BU1', 'MLS1', 'CDN1']
+START_SEASON = 1992
 END_SEASON = 2023
 
 
@@ -22,22 +23,36 @@ def create_table():
         writer.writerow(header)
 
 
-def get_urls(season, league):
+def get_urls(season, leagues):
     while season < END_SEASON:
-        url = 'https://www.transfermarkt.com/premier-league/transfers/wettbewerb/' + league + '/plus/?saison_id=' \
-              + str(season) + '&s_w=&leihe=1&intern=0&intern=1'
-        html = requests.get(url, headers=headers)
-        scrapped_league_data = scrap_url(html.text)
-        data_len = len(scrapped_league_data)
-        if data_len > 0:
-            Transfer.persist_transfer_data(scrapped_league_data)
-            print('\n' + str(data_len) + ' transfers were stored')
-        else:
-            print("\nNo data stored")
+        for lg in leagues:
+            url = 'https://www.transfermarkt.com/premier-league/transfers/wettbewerb/' + lg + '/plus/?saison_id=' \
+                  + str(season) + '&s_w=&leihe=1&intern=0&intern=1'
+            try:
+                print("Trying to fetch: " + url)
+                html = requests.get(url, headers=headers)
+                print("Connection success, status code: " + str(html.status_code))
+            except requests.exceptions.RequestException as err:
+                print("\nAn error occurred with the request: ")
+                print(err)
+
+            scrapped_league_data = scrap_url(html.text)
+            try:
+                data_len = len(scrapped_league_data)
+                if data_len > 0:
+                    Transfer.persist_transfer_data(scrapped_league_data)
+                    print('\n' + str(data_len) + ' transfers were stored')
+                else:
+                    print("No data stored")
+            except Exception:
+                print("No data stored")
+
+            print('\nFetching next url... \n')
+
         season = season + 1
 
-        print('\n fetching next url... \n')
-        time.sleep(5)
+
+
 
 
 def scrap_url(html_content):
@@ -49,7 +64,7 @@ def scrap_url(html_content):
         transfer_season_tag = soup.find('h1', class_='content-box-headline').text.split()
         transfer_season = transfer_season_tag[1]
         for box in boxes:
-            player_club = box.text
+            player_club = box.text.strip()
             tables = box.find_next_siblings('div', class_='responsive-table')
             for table in tables:
                 try:
@@ -83,4 +98,11 @@ def scrap_url(html_content):
         print("HTML is empty of useful data")
 
 
-get_urls(START_SEASON, LEAGUE)
+
+def main():
+    create_table()
+    get_urls(START_SEASON, LEAGUES)
+
+
+if __name__ == "__main__":
+    main()
