@@ -1,2 +1,2 @@
 # transfermarket
-Research in complex network of soccer players transfers
+Research on complex network of soccer players transfers
