@@ -14,10 +14,11 @@ LEAGUES = ['BRA1', 'GB1', 'IT1', 'ES1', 'L1', 'FR1', 'TR1', 'SA1', 'JAP1', 'CSL'
            'IRN1', 'IN1L', 'GR1', 'KR1', 'TS1', 'DK1', 'SER1', 'RO1', 'SE1', 'UNG1', 'ZYP1', 'BU1', 'MLS1', 'CDN1']
 START_SEASON = 1992
 END_SEASON = 2023
+TABLE_FILE = "new_table.csv"
 
 
-def create_table():
-    with open('../data/transfers.csv', 'w') as csv_table:
+def create_table(file):
+    with open('../data/' + str(file), 'w') as csv_table:
         writer = csv.writer(csv_table)
         header = ['Season', 'Player', 'Age', 'Pos', 'Joined', 'Left', 'MV', 'Fee']
         writer.writerow(header)
@@ -40,7 +41,7 @@ def get_urls(season, leagues):
             try:
                 data_len = len(scrapped_league_data)
                 if data_len > 0:
-                    Transfer.persist_transfer_data(scrapped_league_data)
+                    Transfer.persist_transfer_data(scrapped_league_data, TABLE_FILE)
                     print('\n' + str(data_len) + ' transfers were stored')
                 else:
                     print("No data stored")
@@ -50,9 +51,6 @@ def get_urls(season, leagues):
             print('\nFetching next url... \n')
 
         season = season + 1
-
-
-
 
 
 def scrap_url(html_content):
@@ -98,9 +96,8 @@ def scrap_url(html_content):
         print("HTML is empty of useful data")
 
 
-
 def main():
-    create_table()
+    create_table(TABLE_FILE)
     get_urls(START_SEASON, LEAGUES)
 
 

@@ -1,0 +1,783 @@
+Season,Player,Age,Pos,Joined,Left,MV,Fee
+22/23,Gabriel Jesus,25,Centre-Forward,Arsenal FC,Man City,€75.00m,€52.20m
+22/23,Oleksandr Zinchenko,25,Left-Back,Arsenal FC,Man City,€42.00m,€35.00m
+22/23,Fábio Vieira,22,Attacking Midfield,Arsenal FC,FC Porto,€25.00m,€35.00m
+22/23,Jakub Kiwior,22,Centre-Back,Arsenal FC,Spezia Calcio,€25.00m,€25.00m
+22/23,Leandro Trossard,28,Left Winger,Arsenal FC,Brighton,€35.00m,€24.00m
+22/23,Jorginho,31,Defensive Midfield,Arsenal FC,Chelsea,€25.00m,€11.30m
+22/23,Matt Turner,28,Goalkeeper,Arsenal FC,New England,€8.00m,€5.90m
+22/23,Marquinhos,19,Right Winger,Arsenal FC,São Paulo,€12.00m,€3.50m
+22/23,Folarin Balogun,20,Centre-Forward,Arsenal FC,Arsenal U21,€30.00m,-
+22/23,Karl Hein,20,Goalkeeper,Arsenal FC,Arsenal U21,€1.50m,-
+22/23,Albert Sambi Lokonga,23,Central Midfield,Arsenal FC,Crystal Palace,€15.00m,"End of loan: May 31, 2023"
+22/23,Marquinhos,20,Right Winger,Arsenal FC,Norwich,€12.00m,"End of loan: May 31, 2023"
+22/23,Arthur Okonkwo,21,Goalkeeper,Arsenal FC,Crewe Alexandra,€2.00m,"End of loan: Jan 15, 2023"
+22/23,Ainsley Maitland-Niles,25,Central Midfield,Arsenal FC,Southampton,€8.00m,"End of loan: May 31, 2023"
+22/23,Konstantinos Mavropanos,24,Centre-Back,Arsenal FC,VfB Stuttgart,€15.00m,"End of loan: Jun 30, 2022"
+22/23,Auston Trusty,24,Centre-Back,Arsenal FC,Birmingham,€10.00m,"End of loan: May 31, 2023"
+22/23,Auston Trusty,23,Centre-Back,Arsenal FC,Colorado,€10.00m,"End of loan: Jul 14, 2022"
+22/23,Pablo Marí,28,Centre-Back,Arsenal FC,Udinese Calcio,€5.00m,"End of loan: Jun 30, 2022"
+22/23,Ainsley Maitland-Niles,24,Central Midfield,Arsenal FC,AS Roma,€8.00m,"End of loan: Jun 30, 2022"
+22/23,Héctor Bellerín,27,Right-Back,Arsenal FC,Real Betis,€8.00m,"End of loan: Jun 30, 2022"
+22/23,Rúnar Alex Rúnarsson,27,Goalkeeper,Arsenal FC,OH Leuven,€1.50m,"End of loan: Jun 30, 2022"
+22/23,Reiss Nelson,22,Right Winger,Arsenal FC,Feyenoord,€12.00m,"End of loan: Jun 30, 2022"
+22/23,Lucas Torreira,26,Defensive Midfield,Arsenal FC,Fiorentina,€15.00m,"End of loan: Jun 30, 2022"
+22/23,William Saliba,21,Centre-Back,Arsenal FC,Marseille,€65.00m,"End of loan: Jun 30, 2022"
+22/23,Mattéo Guendouzi,23,Central Midfield,Arsenal FC,Marseille,€25.00m,"End of loan: Jun 30, 2022"
+22/23,Mattéo Guendouzi,23,Central Midfield,Marseille,Arsenal FC,€25.00m,€11.00m
+22/23,Lucas Torreira,26,Defensive Midfield,Galatasaray,Arsenal FC,€15.00m,€6.00m
+22/23,Bernd Leno,30,Goalkeeper,Fulham,Arsenal FC,€12.00m,€3.60m
+22/23,Konstantinos Mavropanos,24,Centre-Back,VfB Stuttgart,Arsenal FC,€15.00m,€3.20m
+22/23,Héctor Bellerín,27,Right-Back,Barcelona,Arsenal FC,€8.00m,free transfer
+22/23,Alexandre Lacazette,31,Centre-Forward,Olympique Lyon,Arsenal FC,€14.00m,free transfer
+22/23,Pablo Marí,28,Centre-Back,Monza,Arsenal FC,€5.00m,loan transfer
+22/23,Marquinhos,19,Right Winger,Norwich,Arsenal FC,€12.00m,loan transfer
+22/23,Ainsley Maitland-Niles,25,Central Midfield,Southampton,Arsenal FC,€8.00m,loan transfer
+22/23,Auston Trusty,23,Centre-Back,Birmingham,Arsenal FC,€10.00m,loan transfer
+22/23,Albert Sambi Lokonga,23,Central Midfield,Crystal Palace,Arsenal FC,€15.00m,loan transfer
+22/23,Nicolas Pépé,27,Right Winger,OGC Nice,Arsenal FC,€18.00m,loan transfer
+22/23,Arthur Okonkwo,20,Goalkeeper,Crewe Alexandra,Arsenal FC,€2.00m,loan transfer
+22/23,Arthur Okonkwo,21,Goalkeeper,Sturm Graz,Arsenal FC,€2.00m,loan transfer
+22/23,Nuno Tavares,22,Left-Back,Marseille,Arsenal FC,€18.00m,loan transfer
+22/23,Cédric Soares,31,Right-Back,Fulham,Arsenal FC,€3.00m,loan transfer
+22/23,Folarin Balogun,21,Centre-Forward,Stade Reims,Arsenal FC,€30.00m,loan transfer
+22/23,Rúnar Alex Rúnarsson,27,Goalkeeper,Alanyaspor,Arsenal FC,€1.50m,loan transfer
+22/23,Diego Carlos,29,Centre-Back,Aston Villa,Sevilla FC,€20.00m,€31.00m
+22/23,Philippe Coutinho,30,Left Winger,Aston Villa,Barcelona,€10.00m,€20.00m
+22/23,Jhon Durán,19,Centre-Forward,Aston Villa,Chicago,€12.00m,€16.64m
+22/23,Leander Dendoncker,27,Defensive Midfield,Aston Villa,Wolves,€15.00m,€15.00m
+22/23,Álex Moreno,29,Left-Back,Aston Villa,Real Betis,€15.00m,€13.50m
+22/23,Robin Olsen,32,Goalkeeper,Aston Villa,AS Roma,€1.50m,€3.50m
+22/23,Ludwig Augustinsson,28,Left-Back,Aston Villa,Sevilla FC,€2.50m,Loan fee:€500k
+22/23,Boubacar Kamara,22,Defensive Midfield,Aston Villa,Marseille,€30.00m,free transfer
+22/23,Jan Bednarek,26,Centre-Back,Aston Villa,Southampton,€14.00m,loan transfer
+22/23,Viljami Sinisalo,20,Goalkeeper,Aston Villa,Aston Villa U21,€500k,-
+22/23,Cameron Archer,21,Centre-Forward,Aston Villa,Middlesbrough,€12.00m,"End of loan: May 31, 2023"
+22/23,Lovre Kalinic,32,Goalkeeper,Aston Villa,Hajduk Split,€1.00m,"End of loan: Jun 30, 2022"
+22/23,Marvelous Nakamba,29,Defensive Midfield,Aston Villa,Luton,€4.00m,"End of loan: May 31, 2023"
+22/23,Frédéric Guilbert,27,Right-Back,Aston Villa,R. Strasbourg,€4.50m,"End of loan: Jun 30, 2022"
+22/23,Wesley Moraes,25,Centre-Forward,Aston Villa,Internacional,€3.00m,"End of loan: Jul 23, 2022"
+22/23,Anwar El Ghazi,27,Right Winger,Aston Villa,Everton,€5.00m,"End of loan: Jun 30, 2022"
+22/23,Mahmoud Trezeguet,27,Left Winger,Aston Villa,Basaksehir,€11.00m,"End of loan: Jun 30, 2022"
+22/23,Bertrand Traoré,27,Right Winger,Aston Villa,Basaksehir,€12.00m,"End of loan: Jan 31, 2023"
+22/23,Viljami Sinisalo,21,Goalkeeper,Aston Villa,Burton Albion,€500k,"End of loan: Jan 2, 2023"
+22/23,Tim Iroegbunam,19,Central Midfield,Aston Villa,QPR,€5.00m,"End of loan: May 31, 2023"
+22/23,Jaden Philogene,21,Left Winger,Aston Villa,Cardiff,€2.80m,"End of loan: May 31, 2023"
+22/23,Keinan Davis,25,Centre-Forward,Aston Villa,Watford,€3.00m,"End of loan: May 31, 2023"
+22/23,Kortney Hause,27,Centre-Back,Aston Villa,Watford,€2.20m,"End of loan: May 31, 2023"
+22/23,Carney Chukwuemeka,18,Central Midfield,Chelsea,Aston Villa,€15.00m,€18.00m
+22/23,Matt Targett,26,Left-Back,Newcastle,Aston Villa,€13.00m,€17.50m
+22/23,Danny Ings,30,Centre-Forward,West Ham,Aston Villa,€12.00m,€12.00m
+22/23,Mahmoud Trezeguet,27,Left Winger,Trabzonspor,Aston Villa,€11.00m,€4.00m
+22/23,Anwar El Ghazi,27,Right Winger,PSV Eindhoven,Aston Villa,€5.00m,€2.50m
+22/23,Lovre Kalinic,32,Goalkeeper,Hajduk Split,Aston Villa,€1.00m,free transfer
+22/23,Frédéric Guilbert,28,Right-Back,R. Strasbourg,Aston Villa,€4.50m,free transfer
+22/23,Conor Hourihane,31,Central Midfield,Derby,Aston Villa,€450k,free transfer
+22/23,Kortney Hause,27,Centre-Back,Watford,Aston Villa,€2.20m,loan transfer
+22/23,Keinan Davis,24,Centre-Forward,Watford,Aston Villa,€3.00m,loan transfer
+22/23,Tim Iroegbunam,19,Central Midfield,QPR,Aston Villa,€5.00m,loan transfer
+22/23,Bertrand Traoré,26,Right Winger,Basaksehir,Aston Villa,€12.00m,loan transfer
+22/23,Jaden Philogene,20,Left Winger,Cardiff,Aston Villa,€2.80m,loan transfer
+22/23,Viljami Sinisalo,20,Goalkeeper,Burton Albion,Aston Villa,€500k,loan transfer
+22/23,Cameron Archer,21,Centre-Forward,Middlesbrough,Aston Villa,€12.00m,loan transfer
+22/23,Morgan Sanson,28,Central Midfield,R. Strasbourg,Aston Villa,€6.00m,loan transfer
+22/23,Marvelous Nakamba,29,Defensive Midfield,Luton,Aston Villa,€4.00m,loan transfer
+22/23,Wesley Moraes,25,Centre-Forward,Levante,Aston Villa,€3.00m,loan transfer
+22/23,Philippe Coutinho,30,Left Winger,Barcelona,Aston Villa,€10.00m,"End of loan: Jun 30, 2022"
+22/23,Robin Olsen,32,Goalkeeper,AS Roma,Aston Villa,€1.50m,"End of loan: Jun 30, 2022"
+22/23,Ludwig Augustinsson,28,Left-Back,Sevilla FC,Aston Villa,€2.50m,"End of loan: Jan 29, 2023"
+22/23,Jan Bednarek,26,Centre-Back,Southampton,Aston Villa,€14.00m,"End of loan: Jan 23, 2023"
+22/23,Ilya Zabarnyi,20,Centre-Back,AFC Bournemouth,Dynamo Kyiv,€20.00m,€22.70m
+22/23,Dango Ouattara,20,Right Winger,AFC Bournemouth,FC Lorient,€25.00m,€22.50m
+22/23,Marcos Senesi,25,Centre-Back,AFC Bournemouth,Feyenoord,€22.00m,€15.00m
+22/23,Marcus Tavernier,23,Left Midfield,AFC Bournemouth,Middlesbrough,€17.00m,€11.90m
+22/23,Antoine Semenyo,23,Centre-Forward,AFC Bournemouth,Bristol City,€9.00m,€10.25m
+22/23,Matías Viña,25,Left-Back,AFC Bournemouth,AS Roma,€8.00m,Loan fee:€750k
+22/23,Joe Rothwell,27,Central Midfield,AFC Bournemouth,Blackburn,€4.00m,free transfer
+22/23,Ryan Fredericks,29,Right-Back,AFC Bournemouth,West Ham,€1.50m,free transfer
+22/23,Neto,33,Goalkeeper,AFC Bournemouth,Barcelona,€2.50m,free transfer
+22/23,Darren Randolph,35,Goalkeeper,AFC Bournemouth,West Ham,€400k,free transfer
+22/23,Hamed Junior Traorè,22,Attacking Midfield,AFC Bournemouth,Sassuolo,€22.00m,loan transfer
+22/23,Jack Stephens,28,Centre-Back,AFC Bournemouth,Southampton,€3.50m,loan transfer
+22/23,Gavin Kilkenny,23,Central Midfield,AFC Bournemouth,Charlton,€400k,"End of loan: May 31, 2023"
+22/23,Will Dennis,22,Goalkeeper,AFC Bournemouth,Slough,€150k,"End of loan: May 31, 2023"
+22/23,Christian Saydee,21,Centre-Forward,AFC Bournemouth,Shrewsbury,€400k,"End of loan: May 31, 2023"
+22/23,Gavin Kilkenny,22,Central Midfield,AFC Bournemouth,Stoke City,€400k,"End of loan: Jan 30, 2023"
+22/23,Ben Pearson,28,Defensive Midfield,AFC Bournemouth,Stoke City,€2.20m,"End of loan: May 31, 2023"
+22/23,Robbie Brady,30,Left Midfield,Preston,AFC Bournemouth,€600k,free transfer
+22/23,Zeno Ibsen Rossi,21,Centre-Back,Cambridge Utd.,AFC Bournemouth,€200k,?
+22/23,Gavin Kilkenny,22,Central Midfield,Charlton,AFC Bournemouth,€400k,loan transfer
+22/23,Will Dennis,22,Goalkeeper,Slough,AFC Bournemouth,€150k,loan transfer
+22/23,Jamal Lowe,28,Right Winger,QPR,AFC Bournemouth,€1.50m,loan transfer
+22/23,Emiliano Marcondes,27,Attacking Midfield,Nordsjaelland,AFC Bournemouth,€1.50m,loan transfer
+22/23,James Hill,20,Centre-Back,Heart of Midl.,AFC Bournemouth,€1.00m,loan transfer
+22/23,Christian Saydee,20,Centre-Forward,Shrewsbury,AFC Bournemouth,€400k,loan transfer
+22/23,Siriki Dembélé,26,Left Winger,AJ Auxerre,AFC Bournemouth,€2.00m,loan transfer
+22/23,Ben Pearson,28,Defensive Midfield,Stoke City,AFC Bournemouth,€2.20m,loan transfer
+22/23,Gavin Kilkenny,22,Central Midfield,Stoke City,AFC Bournemouth,€400k,loan transfer
+22/23,Gary Cahill,36,Centre-Back,Without Club,AFC Bournemouth,-,-
+22/23,Jack Stephens,29,Centre-Back,Southampton,AFC Bournemouth,€3.50m,"End of loan: May 31, 2023"
+22/23,Keane Lewis-Potter,21,Left Winger,Brentford FC,Hull City,€12.00m,€19.00m
+22/23,Aaron Hickey,20,Right-Back,Brentford FC,Bologna,€25.00m,€16.50m
+22/23,Mikkel Damsgaard,22,Left Winger,Brentford FC,Sampdoria,€13.00m,€15.00m
+22/23,Kevin Schade,21,Right Winger,Brentford FC,SC Freiburg,€25.00m,Loan fee:€1.00m
+22/23,Thomas Strakosha,27,Goalkeeper,Brentford FC,Lazio,€3.50m,free transfer
+22/23,Ben Mee,32,Centre-Back,Brentford FC,Burnley,€2.00m,free transfer
+22/23,Paris Maghoma,21,Central Midfield,Brentford FC,Brentford B,€350k,-
+22/23,Fin Stevens,19,Right-Back,Brentford FC,Brentford B,€300k,-
+22/23,Matthew Cox,19,Goalkeeper,Brentford FC,Brentford B,€500k,-
+22/23,Fin Stevens,19,Right-Back,Brentford FC,Swansea,€300k,"End of loan: Jan 1, 2023"
+22/23,Mads Bech Sörensen,23,Centre-Back,Brentford FC,OGC Nice,€2.50m,"End of loan: Jan 1, 2023"
+22/23,Halil Dervisoglu,23,Centre-Forward,Brentford FC,Burnley,€2.00m,"End of loan: May 31, 2023"
+22/23,Ellery Balcombe,23,Goalkeeper,Brentford FC,Crawley Town,€300k,"End of loan: Jan 17, 2023"
+22/23,Myles Peart-Harris,20,Attacking Midfield,Brentford FC,Forest Green,€700k,"End of loan: May 31, 2023"
+22/23,Tariqe Fosu,27,Left Winger,Brentford FC,Stoke City,€1.80m,"End of loan: Jan 19, 2023"
+22/23,Ellery Balcombe,23,Goalkeeper,Brentford FC,Bristol Rovers,€300k,"End of loan: May 31, 2023"
+22/23,Paris Maghoma,21,Central Midfield,Brentford FC,AFC Wimbledon,€350k,"End of loan: Jan 5, 2023"
+22/23,Tariqe Fosu,27,Left Winger,Brentford FC,Rotherham,€1.80m,"End of loan: May 31, 2023"
+22/23,Luka Racic,23,Centre-Back,Brentford FC,HB Köge,€300k,"End of loan: Jun 30, 2022"
+22/23,Paris Maghoma,22,Central Midfield,Brentford FC,MK Dons,€350k,"End of loan: May 31, 2023"
+22/23,Joel Valencia,27,Attacking Midfield,Brentford FC,Alcorcón,€300k,"End of loan: Jun 30, 2022"
+22/23,Charlie Goode,27,Centre-Back,Brentford FC,Blackpool,€600k,"End of loan: May 31, 2023"
+22/23,Halil Dervisoglu,22,Centre-Forward,Brentford FC,Galatasaray,€2.00m,"End of loan: Jun 30, 2022"
+22/23,Marcus Forss,23,Centre-Forward,Middlesbrough,Brentford FC,€3.50m,€3.60m
+22/23,Julian Jeanvier,30,Centre-Back,AJ Auxerre,Brentford FC,€800k,free transfer
+22/23,Christian Eriksen,30,Attacking Midfield,Man Utd,Brentford FC,€22.00m,free transfer
+22/23,Luka Racic,23,Centre-Back,SönderjyskE,Brentford FC,€300k,?
+22/23,Dominic Thompson,21,Left-Back,Blackpool,Brentford FC,€1.50m,?
+22/23,Myles Peart-Harris,19,Attacking Midfield,Forest Green,Brentford FC,€700k,loan transfer
+22/23,Ellery Balcombe,22,Goalkeeper,Crawley Town,Brentford FC,€300k,loan transfer
+22/23,Mads Bech Sörensen,24,Centre-Back,FC Groningen,Brentford FC,€2.50m,loan transfer
+22/23,Joel Valencia,27,Attacking Midfield,De Graafschap,Brentford FC,€300k,loan transfer
+22/23,Halil Dervisoglu,22,Centre-Forward,Burnley,Brentford FC,€2.00m,loan transfer
+22/23,Mads Bech Sörensen,23,Centre-Back,OGC Nice,Brentford FC,€2.50m,loan transfer
+22/23,Fin Stevens,19,Right-Back,Swansea,Brentford FC,€300k,loan transfer
+22/23,Ellery Balcombe,23,Goalkeeper,Bristol Rovers,Brentford FC,€300k,loan transfer
+22/23,Tariqe Fosu,26,Left Winger,Stoke City,Brentford FC,€1.80m,loan transfer
+22/23,Tariqe Fosu,27,Left Winger,Rotherham,Brentford FC,€1.80m,loan transfer
+22/23,Paris Maghoma,21,Central Midfield,AFC Wimbledon,Brentford FC,€350k,loan transfer
+22/23,Paris Maghoma,21,Central Midfield,MK Dons,Brentford FC,€350k,loan transfer
+22/23,Charlie Goode,27,Centre-Back,Blackpool,Brentford FC,€600k,loan transfer
+22/23,Sergi Canós,25,Right Winger,Olympiacos,Brentford FC,€9.00m,loan transfer
+22/23,Jonas Lössl,33,Goalkeeper,FC Midtjylland,Brentford FC,€500k,"End of loan: Jun 30, 2022"
+22/23,Álvaro Fernández,24,Goalkeeper,SD Huesca,Brentford FC,€2.50m,"End of loan: Jun 30, 2022"
+22/23,Pervis Estupiñán,24,Left-Back,Brighton & Hove Albion,Villarreal,€32.00m,€17.80m
+22/23,Julio Enciso,18,Second Striker,Brighton & Hove Albion,Libertad,€22.00m,€11.60m
+22/23,Billy Gilmour,21,Defensive Midfield,Brighton & Hove Albion,Chelsea,€12.00m,€8.30m
+22/23,Simon Adingra,20,Left Winger,Brighton & Hove Albion,Nordsjaelland,€10.00m,€8.00m
+22/23,Facundo Buonanotte,18,Attacking Midfield,Brighton & Hove Albion,Rosario Central,€12.00m,€6.00m
+22/23,Yasin Ayari,19,Central Midfield,Brighton & Hove Albion,AIK,€6.00m,€4.00m
+22/23,Levi Colwill,19,Centre-Back,Brighton & Hove Albion,Chelsea U21,€35.00m,loan transfer
+22/23,Evan Ferguson,17,Centre-Forward,Brighton & Hove Albion,Brighton U21,€30.00m,-
+22/23,Tom McGill,22,Goalkeeper,Brighton & Hove Albion,Brighton U21,€600k,-
+22/23,Shane Duffy,31,Centre-Back,Brighton & Hove Albion,Fulham,€2.00m,"End of loan: Jan 30, 2023"
+22/23,Taylor Richards,22,Central Midfield,Brighton & Hove Albion,QPR,€400k,"End of loan: May 31, 2023"
+22/23,Aaron Connolly,22,Centre-Forward,Brighton & Hove Albion,Venezia,€4.00m,"End of loan: Jan 5, 2023"
+22/23,Haydon Roberts,21,Left-Back,Brighton & Hove Albion,Derby,€700k,"End of loan: May 31, 2023"
+22/23,Kjell Scherpen,22,Goalkeeper,Brighton & Hove Albion,KV Oostende,€2.00m,"End of loan: Jun 30, 2022"
+22/23,Deniz Undav,25,Centre-Forward,Brighton & Hove Albion,Union SG,€10.00m,"End of loan: Jun 30, 2022"
+22/23,Aaron Connolly,23,Centre-Forward,Brighton & Hove Albion,Hull City,€4.00m,"End of loan: May 31, 2023"
+22/23,Leo Østigård,22,Centre-Back,Brighton & Hove Albion,Genoa,€7.00m,"End of loan: Jun 30, 2022"
+22/23,Kacper Kozlowski,18,Central Midfield,Brighton & Hove Albion,Union SG,€8.00m,"End of loan: Jun 30, 2022"
+22/23,Andi Zeqiri,23,Centre-Forward,Brighton & Hove Albion,FC Augsburg,€3.50m,"End of loan: Jun 30, 2022"
+22/23,Michal Karbownik,21,Left-Back,Brighton & Hove Albion,Olympiacos,€3.00m,"End of loan: Jun 30, 2022"
+22/23,Florin Andone,29,Centre-Forward,Brighton & Hove Albion,Cádiz CF,€800k,"End of loan: Jun 30, 2022"
+22/23,Marc Cucurella,24,Left-Back,Chelsea,Brighton & Hove Albion,€35.00m,€65.30m
+22/23,Yves Bissouma,25,Central Midfield,Tottenham,Brighton & Hove Albion,€18.00m,€29.20m
+22/23,Leandro Trossard,28,Left Winger,Arsenal,Brighton & Hove Albion,€35.00m,€24.00m
+22/23,Neal Maupay,26,Centre-Forward,Everton,Brighton & Hove Albion,€10.00m,€11.80m
+22/23,Leo Østigård,22,Centre-Back,SSC Napoli,Brighton & Hove Albion,€7.00m,€5.00m
+22/23,Matt Clarke,25,Centre-Back,Middlesbrough,Brighton & Hove Albion,€3.50m,€2.60m
+22/23,Tudor Baluta,23,Defensive Midfield,FCV Farul,Brighton & Hove Albion,€2.80m,free transfer
+22/23,Florin Andone,29,Centre-Forward,UD Las Palmas,Brighton & Hove Albion,€800k,free transfer
+22/23,Shane Duffy,31,Centre-Back,Fulham,Brighton & Hove Albion,€2.00m,?
+22/23,Kacper Kozlowski,18,Central Midfield,Vitesse,Brighton & Hove Albion,€8.00m,loan transfer
+22/23,Kjell Scherpen,22,Goalkeeper,Vitesse,Brighton & Hove Albion,€2.00m,loan transfer
+22/23,Shane Duffy,30,Centre-Back,Fulham,Brighton & Hove Albion,€2.00m,loan transfer
+22/23,Michal Karbownik,21,Left-Back,F. Düsseldorf,Brighton & Hove Albion,€3.00m,loan transfer
+22/23,Andi Zeqiri,23,Centre-Forward,FC Basel,Brighton & Hove Albion,€3.50m,loan transfer
+22/23,Taylor Richards,21,Central Midfield,QPR,Brighton & Hove Albion,€400k,loan transfer
+22/23,Steven Alzate,23,Central Midfield,Standard Liège,Brighton & Hove Albion,€4.00m,loan transfer
+22/23,Aaron Connolly,22,Centre-Forward,Venezia,Brighton & Hove Albion,€4.00m,loan transfer
+22/23,Abdallah Sima,21,Right Winger,Angers SCO,Brighton & Hove Albion,€6.00m,loan transfer
+22/23,Haydon Roberts,20,Left-Back,Derby,Brighton & Hove Albion,€700k,loan transfer
+22/23,Simon Adingra,20,Left Winger,Union SG,Brighton & Hove Albion,€10.00m,loan transfer
+22/23,Aaron Connolly,22,Centre-Forward,Hull City,Brighton & Hove Albion,€4.00m,loan transfer
+22/23,Enock Mwepu,24,Central Midfield,Retired,Brighton & Hove Albion,-,-
+22/23,Levi Colwill,20,Centre-Back,Chelsea U21,Brighton & Hove Albion,€35.00m,"End of loan: May 31, 2023"
+22/23,Enzo Fernández,22,Defensive Midfield,Chelsea FC,Benfica,€80.00m,€121.00m
+22/23,Wesley Fofana,21,Centre-Back,Chelsea FC,Leicester,€55.00m,€80.40m
+22/23,Mykhaylo Mudryk,22,Left Winger,Chelsea FC,Shakhtar D.,€50.00m,€70.00m
+22/23,Marc Cucurella,24,Left-Back,Chelsea FC,Brighton,€35.00m,€65.30m
+22/23,Raheem Sterling,27,Left Winger,Chelsea FC,Man City,€55.00m,€56.20m
+22/23,Benoît Badiashile,21,Centre-Back,Chelsea FC,Monaco,€40.00m,€38.00m
+22/23,Kalidou Koulibaly,31,Centre-Back,Chelsea FC,SSC Napoli,€15.00m,€38.00m
+22/23,Noni Madueke,20,Right Winger,Chelsea FC,PSV Eindhoven,€30.00m,€35.00m
+22/23,Malo Gusto,19,Right-Back,Chelsea FC,Olympique Lyon,€25.00m,€30.00m
+22/23,Carney Chukwuemeka,18,Central Midfield,Chelsea FC,Aston Villa,€15.00m,€18.00m
+22/23,Andrey Santos,18,Defensive Midfield,Chelsea FC,Vasco da Gama,€15.00m,€12.50m
+22/23,David Datro Fofana,20,Centre-Forward,Chelsea FC,Molde FK,€10.00m,€12.00m
+22/23,Pierre-Emerick Aubameyang,33,Centre-Forward,Chelsea FC,Barcelona,€4.00m,€12.00m
+22/23,João Félix,23,Second Striker,Chelsea FC,Atlético Madrid,€50.00m,Loan fee:€11.00m
+22/23,Gabriel Slonina,18,Goalkeeper,Chelsea FC,Chicago,€9.00m,€9.09m
+22/23,Denis Zakaria,25,Defensive Midfield,Chelsea FC,Juventus,€18.00m,Loan fee:€3.00m
+22/23,Conor Gallagher,22,Central Midfield,Chelsea FC,Chelsea U21,€32.00m,-
+22/23,Armando Broja,20,Centre-Forward,Chelsea FC,Chelsea U21,€28.00m,-
+22/23,Abdul Rahman Baba,28,Left-Back,Chelsea FC,Reading,€1.20m,"End of loan: May 31, 2023"
+22/23,Gabriel Slonina,18,Goalkeeper,Chelsea FC,Chicago,€9.00m,"End of loan: Dec 31, 2022"
+22/23,Ethan Ampadu,21,Defensive Midfield,Chelsea FC,Venezia,€9.00m,"End of loan: Jun 30, 2022"
+22/23,Matt Miazga,26,Centre-Back,Chelsea FC,Alavés,€1.80m,"End of loan: Jun 30, 2022"
+22/23,Emerson Palmieri,27,Left-Back,Chelsea FC,Olympique Lyon,€12.00m,"End of loan: Jun 30, 2022"
+22/23,Michy Batshuayi,28,Centre-Forward,Chelsea FC,Besiktas,€10.00m,"End of loan: Jun 30, 2022"
+22/23,Timo Werner,26,Centre-Forward,RB Leipzig,Chelsea FC,€25.00m,€20.00m
+22/23,Emerson Palmieri,28,Left-Back,West Ham,Chelsea FC,€12.00m,€15.40m
+22/23,Jorginho,31,Defensive Midfield,Arsenal,Chelsea FC,€25.00m,€11.30m
+22/23,Billy Gilmour,21,Defensive Midfield,Brighton,Chelsea FC,€12.00m,€8.30m
+22/23,Romelu Lukaku,29,Centre-Forward,Inter,Chelsea FC,€40.00m,Loan fee:€7.80m
+22/23,Michy Batshuayi,28,Centre-Forward,Fenerbahce,Chelsea FC,€10.00m,€3.50m
+22/23,Malang Sarr,23,Centre-Back,Monaco,Chelsea FC,€6.00m,Loan fee:€1.00m
+22/23,Kenedy,26,Left Winger,Real Valladolid,Chelsea FC,€1.50m,€500k
+22/23,Marcos Alonso,31,Left-Back,Barcelona,Chelsea FC,€5.00m,free transfer
+22/23,Matt Miazga,27,Centre-Back,Cincinnati,Chelsea FC,€1.80m,free transfer
+22/23,Charly Musonda Jr.,25,Left Winger,Levante,Chelsea FC,€600k,free transfer
+22/23,Andreas Christensen,26,Centre-Back,Barcelona,Chelsea FC,€40.00m,free transfer
+22/23,Jake Clarke-Salter,24,Centre-Back,QPR,Chelsea FC,€2.00m,free transfer
+22/23,Antonio Rüdiger,29,Centre-Back,Real Madrid,Chelsea FC,€32.00m,free transfer
+22/23,Gabriel Slonina,18,Goalkeeper,Chicago,Chelsea FC,€9.00m,loan transfer
+22/23,Andrey Santos,18,Defensive Midfield,Vasco da Gama,Chelsea FC,€15.00m,loan transfer
+22/23,Ethan Ampadu,21,Defensive Midfield,Spezia Calcio,Chelsea FC,€9.00m,loan transfer
+22/23,Abdul Rahman Baba,28,Left-Back,Reading,Chelsea FC,€1.20m,loan transfer
+22/23,Callum Hudson-Odoi,21,Left Winger,B. Leverkusen,Chelsea FC,€15.00m,loan transfer
+22/23,Ross Barkley,28,Central Midfield,Without Club,Chelsea FC,€6.00m,-
+22/23,Danny Drinkwater,32,Central Midfield,Without Club,Chelsea FC,€400k,-
+22/23,Malo Gusto,19,Right-Back,Olympique Lyon,Chelsea FC,€25.00m,loan transfer
+22/23,Saúl Ñíguez,27,Central Midfield,Atlético Madrid,Chelsea FC,€10.00m,"End of loan: Jun 30, 2022"
+22/23,Cheick Doucouré,22,Defensive Midfield,Crystal Palace,Lens,€35.00m,€22.60m
+22/23,Naouirou Ahamada,20,Central Midfield,Crystal Palace,VfB Stuttgart,€10.00m,€12.00m
+22/23,Chris Richards,22,Centre-Back,Crystal Palace,Bayern Munich,€10.00m,€12.00m
+22/23,Sam Johnstone,29,Goalkeeper,Crystal Palace,West Brom,€6.00m,free transfer
+22/23,Malcolm Ebiowei,18,Right Winger,Crystal Palace,Derby,€3.00m,free transfer
+22/23,Albert Sambi Lokonga,23,Central Midfield,Crystal Palace,Arsenal,€15.00m,loan transfer
+22/23,Joe Whitworth,18,Goalkeeper,Crystal Palace,Palace U21,€900k,-
+22/23,Jesurun Rak-Sakyi,19,Right Winger,Crystal Palace,Palace U21,€1.00m,-
+22/23,Luke Plange,20,Centre-Forward,Crystal Palace,RWDM,€1.00m,"End of loan: Jan 29, 2023"
+22/23,Jesurun Rak-Sakyi,20,Right Winger,Crystal Palace,Charlton,€1.00m,"End of loan: May 31, 2023"
+22/23,Malcolm Ebiowei,19,Right Winger,Crystal Palace,Hull City,€3.00m,"End of loan: May 31, 2023"
+22/23,Luke Plange,20,Centre-Forward,Crystal Palace,Lincoln City,€1.00m,"End of loan: May 31, 2023"
+22/23,Jacob Montes,23,Attacking Midfield,Crystal Palace,RWDM,€150k,"End of loan: Jun 30, 2022"
+22/23,Remi Matthews,29,Goalkeeper,Crystal Palace,St. Johnstone,€350k,"End of loan: May 31, 2023"
+22/23,Christian Benteke,31,Centre-Forward,D.C. United,Crystal Palace,€2.50m,€5.46m
+22/23,Cheikhou Kouyaté,32,Defensive Midfield,Nottm Forest,Crystal Palace,€2.00m,free transfer
+22/23,Jacob Montes,23,Attacking Midfield,Botafogo,Crystal Palace,€150k,free transfer
+22/23,Martin Kelly,32,Right-Back,West Brom,Crystal Palace,€300k,free transfer
+22/23,Jaroslaw Jach,28,Centre-Back,Zaglebie Lubin,Crystal Palace,€500k,free transfer
+22/23,Luke Plange,19,Centre-Forward,RWDM,Crystal Palace,€1.00m,loan transfer
+22/23,Remi Matthews,28,Goalkeeper,St. Johnstone,Crystal Palace,€350k,loan transfer
+22/23,Luke Plange,20,Centre-Forward,Lincoln City,Crystal Palace,€1.00m,loan transfer
+22/23,Malcolm Ebiowei,19,Right Winger,Hull City,Crystal Palace,€3.00m,loan transfer
+22/23,Jack Butland,29,Goalkeeper,Man Utd,Crystal Palace,€1.50m,loan transfer
+22/23,Jesurun Rak-Sakyi,19,Right Winger,Charlton,Crystal Palace,€1.00m,loan transfer
+22/23,Albert Sambi Lokonga,23,Central Midfield,Arsenal,Crystal Palace,€15.00m,"End of loan: May 31, 2023"
+22/23,Amadou Onana,20,Defensive Midfield,Everton FC,LOSC Lille,€45.00m,€35.00m
+22/23,Dwight McNeil,22,Left Winger,Everton FC,Burnley,€20.00m,€17.00m
+22/23,Neal Maupay,26,Centre-Forward,Everton FC,Brighton,€10.00m,€11.80m
+22/23,James Garner,21,Defensive Midfield,Everton FC,Man Utd,€16.00m,€10.40m
+22/23,Idrissa Gueye,32,Central Midfield,Everton FC,Paris SG,€5.00m,€4.00m
+22/23,James Tarkowski,29,Centre-Back,Everton FC,Burnley,€18.00m,free transfer
+22/23,Conor Coady,29,Centre-Back,Everton FC,Wolves,€12.00m,loan transfer
+22/23,Rúben Vinagre,23,Left-Back,Everton FC,Sporting CP,€4.00m,loan transfer
+22/23,Eldin Jakupovic,37,Goalkeeper,Everton FC,Without Club,€100k,-
+22/23,Ellis Simms,21,Centre-Forward,Everton FC,Everton U21,€4.00m,-
+22/23,Niels Nkounkou,21,Left-Back,Everton FC,Standard Liège,€5.00m,"End of loan: Jun 30, 2022"
+22/23,Jean-Philippe Gbamin,26,Defensive Midfield,Everton FC,CSKA Moscow,€4.80m,"End of loan: Jun 30, 2022"
+22/23,Niels Nkounkou,22,Left-Back,Everton FC,Cardiff,€5.00m,"End of loan: Jan 13, 2023"
+22/23,Ellis Simms,21,Centre-Forward,Everton FC,Sunderland,€4.00m,"End of loan: Dec 31, 2022"
+22/23,João Virgínia,22,Goalkeeper,Everton FC,Sporting CP,€600k,"End of loan: Jun 30, 2022"
+22/23,Richarlison,25,Centre-Forward,Tottenham,Everton FC,€48.00m,€58.00m
+22/23,Anthony Gordon,21,Left Winger,Newcastle,Everton FC,€38.00m,€45.60m
+22/23,Eldin Jakupovic,38,Goalkeeper,LAFC,Everton FC,€100k,free transfer
+22/23,Salomón Rondón,33,Centre-Forward,River Plate,Everton FC,€1.50m,free transfer
+22/23,Cenk Tosun,31,Centre-Forward,Besiktas,Everton FC,€3.20m,free transfer
+22/23,Jonjoe Kenny,25,Right-Back,Hertha BSC,Everton FC,€3.00m,free transfer
+22/23,Allan,31,Defensive Midfield,Al-Wahda FC,Everton FC,€6.00m,free transfer
+22/23,Dele Alli,26,Attacking Midfield,Besiktas,Everton FC,€8.00m,loan transfer
+22/23,Jean-Philippe Gbamin,26,Defensive Midfield,Trabzonspor,Everton FC,€4.80m,loan transfer
+22/23,Niels Nkounkou,22,Left-Back,Saint-Étienne,Everton FC,€5.00m,loan transfer
+22/23,Ellis Simms,21,Centre-Forward,Sunderland,Everton FC,€4.00m,loan transfer
+22/23,Niels Nkounkou,21,Left-Back,Cardiff,Everton FC,€5.00m,loan transfer
+22/23,Jarrad Branthwaite,20,Centre-Back,PSV Eindhoven,Everton FC,€10.00m,loan transfer
+22/23,André Gomes,29,Central Midfield,LOSC Lille,Everton FC,€16.00m,loan transfer
+22/23,Gylfi Sigurdsson,32,Attacking Midfield,Career break,Everton FC,-,-
+22/23,Fabian Delph,32,Central Midfield,Retired,Everton FC,-,-
+22/23,João Virgínia,22,Goalkeeper,SC Cambuur,Everton FC,€600k,loan transfer
+22/23,Anwar El Ghazi,27,Right Winger,Aston Villa,Everton FC,€5.00m,"End of loan: Jun 30, 2022"
+22/23,João Palhinha,26,Defensive Midfield,Fulham FC,Sporting CP,€40.00m,€21.00m
+22/23,Issa Diop,25,Centre-Back,Fulham FC,West Ham,€18.00m,€17.80m
+22/23,Sasa Lukic,26,Central Midfield,Fulham FC,Torino,€12.00m,€9.80m
+22/23,Andreas Pereira,26,Attacking Midfield,Fulham FC,Man Utd,€18.00m,€9.50m
+22/23,Kevin Mbabu,27,Right-Back,Fulham FC,VfL Wolfsburg,€3.50m,€5.50m
+22/23,Carlos Vinícius,27,Centre-Forward,Fulham FC,Benfica,€6.00m,€5.00m
+22/23,Bernd Leno,30,Goalkeeper,Fulham FC,Arsenal,€12.00m,€3.60m
+22/23,Willian,34,Left Winger,Fulham FC,Corinthians,€3.00m,free transfer
+22/23,Shane Duffy,31,Centre-Back,Fulham FC,Brighton,€2.00m,?
+22/23,Daniel James,24,Left Winger,Fulham FC,Leeds,€12.00m,loan transfer
+22/23,Cédric Soares,31,Right-Back,Fulham FC,Arsenal,€3.00m,loan transfer
+22/23,Shane Duffy,30,Centre-Back,Fulham FC,Brighton,€2.00m,loan transfer
+22/23,Layvin Kurzawa,29,Left-Back,Fulham FC,Paris SG,€3.00m,loan transfer
+22/23,Manor Solomon,23,Left Winger,Fulham FC,Shakhtar D.,€18.00m,loan transfer
+22/23,Frank Anguissa,26,Central Midfield,Fulham FC,SSC Napoli,€40.00m,"End of loan: Jun 30, 2022"
+22/23,Steven Sessegnon,23,Right-Back,Fulham FC,Charlton,€800k,"End of loan: May 31, 2023"
+22/23,Anthony Knockaert,31,Right Winger,Fulham FC,Huddersfield,€900k,"End of loan: May 31, 2023"
+22/23,Anthony Knockaert,31,Right Winger,Fulham FC,Volos NPS,€900k,"End of loan: Jan 10, 2023"
+22/23,Tyrese Francois,22,Central Midfield,Fulham FC,HNK Gorica,€500k,"End of loan: Jan 10, 2023"
+22/23,Rodrigo Muniz,22,Centre-Forward,Fulham FC,Middlesbrough,€5.00m,"End of loan: May 31, 2023"
+22/23,Frank Anguissa,26,Central Midfield,SSC Napoli,Fulham FC,€40.00m,€16.00m
+22/23,Fábio Carvalho,19,Attacking Midfield,Liverpool,Fulham FC,€16.00m,€5.90m
+22/23,Josh Onomah,25,Central Midfield,Preston,Fulham FC,€1.50m,free transfer
+22/23,Jean Michaël Seri,30,Defensive Midfield,Hull City,Fulham FC,€1.50m,free transfer
+22/23,Cyrus Christie,29,Right-Back,Hull City,Fulham FC,€1.00m,free transfer
+22/23,Alfie Mawson,28,Centre-Back,Wycombe,Fulham FC,-,free transfer
+22/23,Anthony Knockaert,30,Right Winger,Volos NPS,Fulham FC,€900k,loan transfer
+22/23,Tyrese Francois,22,Central Midfield,HNK Gorica,Fulham FC,€500k,loan transfer
+22/23,Anthony Knockaert,31,Right Winger,Huddersfield,Fulham FC,€900k,loan transfer
+22/23,Nathaniel Chalobah,28,Defensive Midfield,West Brom,Fulham FC,€1.80m,?
+22/23,Ivan Cavaleiro,28,Left Winger,Alanyaspor,Fulham FC,€2.20m,loan transfer
+22/23,Kevin Mbabu,27,Right-Back,Servette FC,Fulham FC,€3.50m,loan transfer
+22/23,Terence Kongolo,28,Centre-Back,Le Havre AC,Fulham FC,€900k,loan transfer
+22/23,Joe Bryan,28,Left-Back,OGC Nice,Fulham FC,€2.20m,loan transfer
+22/23,Paulo Gazzaniga,30,Goalkeeper,Girona,Fulham FC,€3.00m,loan transfer
+22/23,Rodrigo Muniz,21,Centre-Forward,Middlesbrough,Fulham FC,€5.00m,loan transfer
+22/23,Steven Sessegnon,22,Right-Back,Charlton,Fulham FC,€800k,loan transfer
+22/23,Fabri,34,Goalkeeper,Without Club,Fulham FC,€100k,-
+22/23,Michael Hector,29,Centre-Back,Without Club,Fulham FC,€500k,-
+22/23,Shane Duffy,31,Centre-Back,Brighton,Fulham FC,€2.00m,"End of loan: Jan 30, 2023"
+22/23,Daniel James,25,Left Winger,Leeds,Fulham FC,€12.00m,"End of loan: May 31, 2023"
+22/23,Brenden Aaronson,21,Attacking Midfield,Leeds United,RB Salzburg,€25.00m,€32.84m
+22/23,Georginio Rutter,20,Centre-Forward,Leeds United,TSG Hoffenheim,€18.00m,€28.00m
+22/23,Luis Sinisterra,23,Left Winger,Leeds United,Feyenoord,€22.00m,€25.00m
+22/23,Tyler Adams,23,Defensive Midfield,Leeds United,RB Leipzig,€18.00m,€17.00m
+22/23,Rasmus Kristensen,24,Right-Back,Leeds United,RB Salzburg,€13.00m,€13.00m
+22/23,Maximilian Wöber,24,Centre-Back,Leeds United,RB Salzburg,€14.00m,€12.00m
+22/23,Marc Roca,25,Defensive Midfield,Leeds United,Bayern Munich,€10.00m,€12.00m
+22/23,Darko Gyabi,18,Central Midfield,Leeds United,Man City U21,€3.00m,€5.80m
+22/23,Wilfried Gnonto,18,Left Winger,Leeds United,FC Zürich,€18.00m,€4.50m
+22/23,Weston McKennie,24,Central Midfield,Leeds United,Juventus,€18.00m,Loan fee:€1.25m
+22/23,Joel Robles,32,Goalkeeper,Leeds United,Real Betis,€1.00m,free transfer
+22/23,Sonny Perkins,18,Centre-Forward,Leeds United,West Ham U21,€1.20m,free transfer
+22/23,Cody Drameh,21,Right-Back,Leeds United,Luton,€3.50m,"End of loan: May 31, 2023"
+22/23,Joe Gelhardt,21,Centre-Forward,Leeds United,Sunderland,€8.00m,"End of loan: May 31, 2023"
+22/23,Leo Fuhr Hjelde,19,Left-Back,Leeds United,Rotherham,€1.50m,"End of loan: May 31, 2023"
+22/23,Lewis Bate,20,Central Midfield,Leeds United,Oxford United,€1.20m,"End of loan: May 31, 2023"
+22/23,Daniel James,25,Left Winger,Leeds United,Fulham,€12.00m,"End of loan: May 31, 2023"
+22/23,Mateusz Bogusz,21,Attacking Midfield,Leeds United,UD Ibiza,€1.20m,"End of loan: Mar 24, 2023"
+22/23,Ian Poveda,23,Right Winger,Leeds United,Blackpool,€900k,"End of loan: May 31, 2023"
+22/23,Mateusz Bogusz,20,Attacking Midfield,Leeds United,UD Ibiza,€1.20m,"End of loan: Jun 30, 2022"
+22/23,Jamie Shackleton,23,Central Midfield,Leeds United,Millwall,€2.00m,"End of loan: May 31, 2023"
+22/23,Tyler Roberts,24,Centre-Forward,Leeds United,QPR,€3.00m,"End of loan: May 31, 2023"
+22/23,Charlie Cresswell,20,Centre-Back,Leeds United,Millwall,€5.00m,"End of loan: May 31, 2023"
+22/23,Laurens De Bock,29,Left-Back,Leeds United,Zulte Waregem,€600k,"End of loan: Jun 30, 2022"
+22/23,Hélder Costa,28,Right Winger,Leeds United,Valencia,€3.20m,"End of loan: Jun 30, 2022"
+22/23,Kiko Casilla,35,Goalkeeper,Leeds United,Elche CF,€300k,"End of loan: Jun 30, 2022"
+22/23,Raphinha,25,Right Winger,Barcelona,Leeds United,€60.00m,€58.00m
+22/23,Kalvin Phillips,26,Defensive Midfield,Man City,Leeds United,€32.00m,€49.00m
+22/23,Hélder Costa,28,Right Winger,Al-Ittihad Club,Leeds United,€3.20m,Loan fee:€4.80m
+22/23,Leif Davis,22,Left-Back,Ipswich,Leeds United,€1.20m,€1.20m
+22/23,Mateusz Bogusz,21,Attacking Midfield,LAFC,Leeds United,€1.20m,€1.00m
+22/23,Diego Llorente,29,Centre-Back,AS Roma,Leeds United,€12.00m,Loan fee:€500k
+22/23,Kiko Casilla,35,Goalkeeper,Getafe,Leeds United,€300k,free transfer
+22/23,Mateusz Klich,32,Central Midfield,D.C. United,Leeds United,€2.00m,free transfer
+22/23,Laurens De Bock,29,Left-Back,Zulte Waregem,Leeds United,€600k,free transfer
+22/23,Liam McCarron,21,Left-Back,Stoke City,Leeds United,€250k,?
+22/23,Jamie Shackleton,22,Central Midfield,Millwall,Leeds United,€2.00m,loan transfer
+22/23,Cody Drameh,21,Right-Back,Luton,Leeds United,€3.50m,loan transfer
+22/23,Joe Gelhardt,20,Centre-Forward,Sunderland,Leeds United,€8.00m,loan transfer
+22/23,Tyler Roberts,23,Centre-Forward,QPR,Leeds United,€3.00m,loan transfer
+22/23,Ian Poveda,22,Right Winger,Blackpool,Leeds United,€900k,loan transfer
+22/23,Charlie Cresswell,19,Centre-Back,Millwall,Leeds United,€5.00m,loan transfer
+22/23,Mateusz Bogusz,21,Attacking Midfield,UD Ibiza,Leeds United,€1.20m,loan transfer
+22/23,Daniel James,24,Left Winger,Fulham,Leeds United,€12.00m,loan transfer
+22/23,Leo Fuhr Hjelde,19,Left-Back,Rotherham,Leeds United,€1.50m,loan transfer
+22/23,Lewis Bate,19,Central Midfield,Oxford United,Leeds United,€1.20m,loan transfer
+22/23,Harry Souttar,24,Centre-Back,Leicester City,Stoke City,€15.00m,€17.00m
+22/23,Wout Faes,24,Centre-Back,Leicester City,Stade Reims,€20.00m,€17.00m
+22/23,Victor Kristiansen,20,Left-Back,Leicester City,FC Copenhagen,€12.00m,€14.00m
+22/23,Alex Smithies,32,Goalkeeper,Leicester City,Cardiff,€500k,free transfer
+22/23,Tetê,22,Right Winger,Leicester City,Shakhtar D.,€25.00m,loan transfer
+22/23,George Hirst,24,Centre-Forward,Leicester City,Ipswich,€800k,"End of loan: May 31, 2023"
+22/23,Marc Albrighton,33,Right Midfield,Leicester City,West Brom,€1.00m,"End of loan: May 31, 2023"
+22/23,George Hirst,23,Centre-Forward,Leicester City,Blackburn,€800k,"End of loan: Jan 7, 2023"
+22/23,Dennis Praet,28,Central Midfield,Leicester City,Torino,€7.00m,"End of loan: Jun 30, 2022"
+22/23,Hamza Choudhury,25,Defensive Midfield,Leicester City,Watford,€5.00m,"End of loan: May 31, 2023"
+22/23,Wesley Fofana,21,Centre-Back,Chelsea,Leicester City,€55.00m,€80.40m
+22/23,Kasper Schmeichel,35,Goalkeeper,OGC Nice,Leicester City,€2.00m,€1.00m
+22/23,Hamza Choudhury,24,Defensive Midfield,Watford,Leicester City,€5.00m,loan transfer
+22/23,Marc Albrighton,33,Right Midfield,West Brom,Leicester City,€1.00m,loan transfer
+22/23,George Hirst,23,Centre-Forward,Blackburn,Leicester City,€800k,loan transfer
+22/23,Ayoze Pérez,29,Left Winger,Real Betis,Leicester City,€6.00m,loan transfer
+22/23,George Hirst,23,Centre-Forward,Ipswich,Leicester City,€800k,loan transfer
+22/23,Eldin Jakupovic,37,Goalkeeper,Without Club,Leicester City,€100k,-
+22/23,Ademola Lookman,24,Second Striker,RB Leipzig,Leicester City,€30.00m,"End of loan: Jun 30, 2022"
+22/23,Darwin Núñez,23,Centre-Forward,Liverpool FC,Benfica,€65.00m,€80.00m
+22/23,Cody Gakpo,23,Left Winger,Liverpool FC,PSV Eindhoven,€55.00m,€42.00m
+22/23,Fábio Carvalho,19,Attacking Midfield,Liverpool FC,Fulham,€16.00m,€5.90m
+22/23,Calvin Ramsay,18,Right-Back,Liverpool FC,Aberdeen FC,€5.00m,€4.90m
+22/23,Arthur Melo,26,Central Midfield,Liverpool FC,Juventus,€15.00m,Loan fee:€4.50m
+22/23,Stefan Bajcetic,17,Defensive Midfield,Liverpool FC,Liverpool U18,€13.00m,-
+22/23,Marko Grujic,26,Defensive Midfield,Liverpool FC,FC Porto,€9.00m,"End of loan: Jun 30, 2022"
+22/23,Rhys Williams,21,Centre-Back,Liverpool FC,Blackpool,€2.00m,"End of loan: Jan 23, 2023"
+22/23,Sadio Mané,30,Left Winger,Bayern Munich,Liverpool FC,€25.00m,€32.00m
+22/23,Neco Williams,21,Right-Back,Nottm Forest,Liverpool FC,€20.00m,€20.00m
+22/23,Takumi Minamino,27,Left Winger,Monaco,Liverpool FC,€6.00m,€15.00m
+22/23,Marko Grujic,26,Defensive Midfield,FC Porto,Liverpool FC,€9.00m,€9.00m
+22/23,Ben Davies,26,Centre-Back,Rangers,Liverpool FC,€3.50m,€4.70m
+22/23,Ben Woodburn,22,Attacking Midfield,Preston,Liverpool FC,€1.00m,free transfer
+22/23,Sheyi Ojo,25,Right Winger,Cardiff,Liverpool FC,€1.80m,free transfer
+22/23,Divock Origi,27,Centre-Forward,AC Milan,Liverpool FC,€6.00m,free transfer
+22/23,Rhys Williams,21,Centre-Back,Blackpool,Liverpool FC,€2.00m,loan transfer
+22/23,Sepp van den Berg,20,Centre-Back,FC Schalke 04,Liverpool FC,€5.00m,loan transfer
+22/23,Loris Karius,29,Goalkeeper,Without Club,Liverpool FC,€1.20m,-
+22/23,Erling Haaland,21,Centre-Forward,Manchester City,Bor. Dortmund,€180.00m,€60.00m
+22/23,Kalvin Phillips,26,Defensive Midfield,Manchester City,Leeds,€32.00m,€49.00m
+22/23,Manuel Akanji,27,Centre-Back,Manchester City,Bor. Dortmund,€38.00m,€20.00m
+22/23,Sergio Gómez,21,Left-Back,Manchester City,RSC Anderlecht,€13.00m,€15.00m
+22/23,Máximo Perrone,20,Defensive Midfield,Manchester City,Vélez Sarsfield,€10.00m,€11.00m
+22/23,Stefan Ortega,29,Goalkeeper,Manchester City,Arm. Bielefeld,€9.00m,free transfer
+22/23,Josh Wilson-Esbrand,20,Left-Back,Manchester City,Man City U21,€1.50m,-
+22/23,Rico Lewis,17,Right-Back,Manchester City,Man City U18,€20.00m,-
+22/23,Slobodan Tedic,22,Centre-Forward,Manchester City,PEC Zwolle,€600k,"End of loan: Jun 30, 2022"
+22/23,Nahuel Bustos,23,Centre-Forward,Manchester City,Girona,€4.50m,"End of loan: Jun 30, 2022"
+22/23,Pedro Porro,22,Right-Back,Manchester City,Sporting CP,€40.00m,"End of loan: Jun 30, 2022"
+22/23,Issa Kaboré,21,Right-Back,Manchester City,Troyes,€7.00m,"End of loan: Jun 30, 2022"
+22/23,Thomas Agyepong,25,Left Winger,Manchester City,Lommel SK,€100k,"End of loan: Jun 30, 2022"
+22/23,Ante Palaversa,22,Central Midfield,Manchester City,KV Kortrijk,€700k,"End of loan: Jun 30, 2022"
+22/23,Diego Rosa,19,Central Midfield,Manchester City,Lommel SK,€2.00m,"End of loan: Jun 30, 2022"
+22/23,Josh Wilson-Esbrand,20,Left-Back,Manchester City,Coventry,€1.50m,"End of loan: May 31, 2023"
+22/23,Marlos Moreno,25,Left Winger,Manchester City,KV Kortrijk,€950k,"End of loan: Jun 30, 2022"
+22/23,Ryotaro Meshino,24,Left Winger,Manchester City,Estoril Praia,€350k,"End of loan: Jun 30, 2022"
+22/23,Zack Steffen,28,Goalkeeper,Manchester City,Middlesbrough,€3.50m,"End of loan: May 31, 2023"
+22/23,Julián Álvarez,22,Centre-Forward,Manchester City,River Plate,€60.00m,"End of loan: Jul 7, 2022"
+22/23,Yangel Herrera,24,Central Midfield,Manchester City,Espanyol,€5.00m,"End of loan: Jun 30, 2022"
+22/23,Taylor Harwood-Bellis,21,Centre-Back,Manchester City,Burnley,€25.00m,"End of loan: May 31, 2023"
+22/23,Yan Couto,20,Right-Back,Manchester City,SC Braga,€4.00m,"End of loan: Jun 30, 2022"
+22/23,Ko Itakura,25,Centre-Back,Manchester City,FC Schalke 04,€12.00m,"End of loan: Jun 30, 2022"
+22/23,Daniel Arzani,23,Left Winger,Manchester City,Lommel SK,€450k,"End of loan: Jun 30, 2022"
+22/23,Slobodan Tedic,23,Centre-Forward,Manchester City,Barnsley FC,€600k,"End of loan: May 31, 2023"
+22/23,Arijanet Muric,23,Goalkeeper,Manchester City,Adana Demirspor,€12.00m,"End of loan: Jun 30, 2022"
+22/23,Nahuel Bustos,24,Centre-Forward,Manchester City,São Paulo,€4.50m,"End of loan: Dec 31, 2022"
+22/23,Diego Rosa,20,Central Midfield,Manchester City,Vizela,€2.00m,"End of loan: Dec 31, 2022"
+22/23,Raheem Sterling,27,Left Winger,Chelsea,Manchester City,€55.00m,€56.20m
+22/23,Gabriel Jesus,25,Centre-Forward,Arsenal,Manchester City,€75.00m,€52.20m
+22/23,Oleksandr Zinchenko,25,Left-Back,Arsenal,Manchester City,€42.00m,€35.00m
+22/23,Pedro Porro,22,Right-Back,Sporting CP,Manchester City,€40.00m,€8.77m
+22/23,Ko Itakura,25,Centre-Back,Bor. M'gladbach,Manchester City,€12.00m,€5.00m
+22/23,Arijanet Muric,23,Goalkeeper,Burnley,Manchester City,€12.00m,€3.00m
+22/23,Diego Rosa,20,Central Midfield,EC Bahia,Manchester City,€2.00m,€2.00m
+22/23,Ryotaro Meshino,24,Left Winger,Gamba Osaka,Manchester City,€350k,free transfer
+22/23,Daniel Arzani,23,Left Winger,Macarthur,Manchester City,€450k,free transfer
+22/23,Fernandinho,37,Defensive Midfield,Athletico-PR,Manchester City,€600k,free transfer
+22/23,João Cancelo,28,Right-Back,Bayern Munich,Manchester City,€50.00m,loan transfer
+22/23,Nahuel Bustos,24,Centre-Forward,São Paulo,Manchester City,€4.50m,loan transfer
+22/23,Ante Palaversa,22,Central Midfield,Troyes,Manchester City,€700k,?
+22/23,Marlos Moreno,25,Left Winger,Troyes,Manchester City,€950k,?
+22/23,Yangel Herrera,24,Central Midfield,Girona,Manchester City,€5.00m,loan transfer
+22/23,Zack Steffen,27,Goalkeeper,Middlesbrough,Manchester City,€3.50m,loan transfer
+22/23,Slobodan Tedic,22,Centre-Forward,Barnsley FC,Manchester City,€600k,loan transfer
+22/23,Yan Couto,20,Right-Back,Girona,Manchester City,€4.00m,loan transfer
+22/23,Issa Kaboré,21,Right-Back,Marseille,Manchester City,€7.00m,loan transfer
+22/23,Josh Wilson-Esbrand,20,Left-Back,Coventry,Manchester City,€1.50m,loan transfer
+22/23,Diego Rosa,19,Central Midfield,Vizela,Manchester City,€2.00m,loan transfer
+22/23,Taylor Harwood-Bellis,20,Centre-Back,Burnley,Manchester City,€25.00m,loan transfer
+22/23,Thomas Agyepong,25,Left Winger,Without Club,Manchester City,€100k,-
+22/23,Nahuel Bustos,24,Centre-Forward,CA Talleres,Manchester City,€4.50m,loan transfer
+22/23,Antony,22,Right Winger,Manchester United,Ajax,€60.00m,€95.00m
+22/23,Casemiro,30,Defensive Midfield,Manchester United,Real Madrid,€40.00m,€70.65m
+22/23,Lisandro Martínez,24,Centre-Back,Manchester United,Ajax,€50.00m,€57.37m
+22/23,Tyrell Malacia,22,Left-Back,Manchester United,Feyenoord,€22.00m,€15.00m
+22/23,Wout Weghorst,30,Centre-Forward,Manchester United,Burnley,€12.00m,Loan fee:€2.96m
+22/23,Martin Dúbravka,33,Goalkeeper,Manchester United,Newcastle,€1.50m,Loan fee:€2.30m
+22/23,Christian Eriksen,30,Attacking Midfield,Manchester United,Brentford,€22.00m,free transfer
+22/23,Jack Butland,29,Goalkeeper,Manchester United,Crystal Palace,€1.50m,loan transfer
+22/23,Marcel Sabitzer,28,Central Midfield,Manchester United,Bayern Munich,€20.00m,loan transfer
+22/23,Kobbie Mainoo,17,Central Midfield,Manchester United,Man Utd U21,€800k,-
+22/23,Zidane Iqbal,19,Central Midfield,Manchester United,Man Utd U21,€1.00m,-
+22/23,Álvaro Fernandez,19,Left-Back,Manchester United,Man Utd U21,€7.00m,-
+22/23,Hannibal,19,Attacking Midfield,Manchester United,Man Utd U21,€8.00m,-
+22/23,Matej Kovar,22,Goalkeeper,Manchester United,Man Utd U21,€1.80m,-
+22/23,Alejandro Garnacho,18,Left Winger,Manchester United,Man Utd U21,€25.00m,-
+22/23,Amad Diallo,20,Right Winger,Manchester United,Sunderland,€18.00m,"End of loan: May 31, 2023"
+22/23,Hannibal,20,Attacking Midfield,Manchester United,Birmingham,€8.00m,"End of loan: May 31, 2023"
+22/23,Shola Shoretire,19,Attacking Midfield,Manchester United,Bolton,€4.00m,"End of loan: May 31, 2023"
+22/23,Álvaro Fernandez,20,Left-Back,Manchester United,Preston,€7.00m,"End of loan: May 31, 2023"
+22/23,Dean Henderson,26,Goalkeeper,Manchester United,Nottm Forest,€18.00m,"End of loan: May 31, 2023"
+22/23,Axel Tuanzebe,25,Centre-Back,Manchester United,Stoke City,€4.50m,"End of loan: May 31, 2023"
+22/23,Anthony Martial,26,Centre-Forward,Manchester United,Sevilla FC,€15.00m,"End of loan: Jun 30, 2022"
+22/23,Axel Tuanzebe,24,Centre-Back,Manchester United,SSC Napoli,€4.50m,"End of loan: Jun 30, 2022"
+22/23,Andreas Pereira,26,Attacking Midfield,Manchester United,Flamengo,€18.00m,"End of loan: Jun 30, 2022"
+22/23,Facundo Pellistri,20,Right Winger,Manchester United,Alavés,€6.00m,"End of loan: Jun 30, 2022"
+22/23,James Garner,21,Defensive Midfield,Everton,Manchester United,€16.00m,€10.40m
+22/23,Andreas Pereira,26,Attacking Midfield,Fulham,Manchester United,€18.00m,€9.50m
+22/23,Eric Bailly,28,Centre-Back,Marseille,Manchester United,€5.00m,Loan fee:€2.00m
+22/23,Tahith Chong,22,Attacking Midfield,Birmingham,Manchester United,€3.20m,€1.75m
+22/23,Nemanja Matic,33,Defensive Midfield,AS Roma,Manchester United,€4.00m,free transfer
+22/23,Juan Mata,34,Attacking Midfield,Galatasaray,Manchester United,€1.00m,free transfer
+22/23,Paul Pogba,29,Central Midfield,Juventus,Manchester United,€15.00m,free transfer
+22/23,Jesse Lingard,29,Attacking Midfield,Nottm Forest,Manchester United,€8.00m,free transfer
+22/23,Edinson Cavani,35,Centre-Forward,Valencia,Manchester United,€3.00m,free transfer
+22/23,Amad Diallo,20,Right Winger,Sunderland,Manchester United,€18.00m,loan transfer
+22/23,Hannibal,19,Attacking Midfield,Birmingham,Manchester United,€8.00m,loan transfer
+22/23,Matej Kovar,22,Goalkeeper,Sparta Prague,Manchester United,€1.80m,loan transfer
+22/23,Shola Shoretire,18,Attacking Midfield,Bolton,Manchester United,€4.00m,loan transfer
+22/23,Alex Telles,29,Left-Back,Sevilla FC,Manchester United,€7.50m,loan transfer
+22/23,Álvaro Fernandez,19,Left-Back,Preston,Manchester United,€7.00m,loan transfer
+22/23,Axel Tuanzebe,25,Centre-Back,Stoke City,Manchester United,€4.50m,loan transfer
+22/23,Dean Henderson,25,Goalkeeper,Nottm Forest,Manchester United,€18.00m,loan transfer
+22/23,Cristiano Ronaldo,37,Centre-Forward,Without Club,Manchester United,€15.00m,-
+22/23,Lee Grant,39,Goalkeeper,Retired,Manchester United,-,-
+22/23,Martin Dúbravka,33,Goalkeeper,Newcastle,Manchester United,€1.50m,"End of loan: Jan 1, 2023"
+22/23,Alexander Isak,22,Centre-Forward,Newcastle United,Real Sociedad,€70.00m,€70.00m
+22/23,Anthony Gordon,21,Left Winger,Newcastle United,Everton,€38.00m,€45.60m
+22/23,Sven Botman,22,Centre-Back,Newcastle United,LOSC Lille,€45.00m,€37.00m
+22/23,Matt Targett,26,Left-Back,Newcastle United,Aston Villa,€13.00m,€17.50m
+22/23,Nick Pope,30,Goalkeeper,Newcastle United,Burnley,€20.00m,€11.50m
+22/23,Harrison Ashby,21,Right-Back,Newcastle United,West Ham U21,€1.00m,€3.40m
+22/23,Garang Kuol,18,Right Winger,Newcastle United,Central Coast,€800k,€350k
+22/23,Kell Watts,22,Centre-Back,Newcastle United,Newcastle U21,€300k,-
+22/23,Loris Karius,29,Goalkeeper,Newcastle United,Without Club,€1.20m,-
+22/23,Elliot Anderson,19,Attacking Midfield,Newcastle United,Newcastle U21,€8.00m,-
+22/23,Martin Dúbravka,33,Goalkeeper,Newcastle United,Man Utd,€1.50m,"End of loan: Jan 1, 2023"
+22/23,Kell Watts,23,Centre-Back,Newcastle United,Peterborough,€300k,"End of loan: May 31, 2023"
+22/23,Matty Longstaff,22,Central Midfield,Newcastle United,Colchester Utd.,€1.00m,"End of loan: Jan 1, 2023"
+22/23,Ciaran Clark,33,Centre-Back,Newcastle United,Sheff Utd,€600k,"End of loan: May 31, 2023"
+22/23,Jeff Hendrick,31,Central Midfield,Newcastle United,Reading,€1.50m,"End of loan: May 31, 2023"
+22/23,Isaac Hayden,28,Defensive Midfield,Newcastle United,Norwich,€3.50m,"End of loan: May 31, 2023"
+22/23,Karl Darlow,32,Goalkeeper,Newcastle United,Hull City,€1.00m,"End of loan: May 31, 2023"
+22/23,Jonjo Shelvey,30,Central Midfield,Nottm Forest,Newcastle United,€5.00m,€6.50m
+22/23,Chris Wood,31,Centre-Forward,Nottm Forest,Newcastle United,€8.00m,Loan fee:€4.50m
+22/23,Martin Dúbravka,33,Goalkeeper,Man Utd,Newcastle United,€1.50m,Loan fee:€2.30m
+22/23,Isaac Hayden,27,Defensive Midfield,Norwich,Newcastle United,€3.50m,Loan fee:€600k
+22/23,Karl Darlow,32,Goalkeeper,Hull City,Newcastle United,€1.00m,Loan fee:€157k
+22/23,Dwight Gayle,32,Centre-Forward,Stoke City,Newcastle United,€600k,free transfer
+22/23,Federico Fernández,33,Centre-Back,Elche CF,Newcastle United,€700k,free transfer
+22/23,Kell Watts,22,Centre-Back,Peterborough,Newcastle United,€300k,loan transfer
+22/23,Freddie Woodman,25,Goalkeeper,Preston,Newcastle United,€6.00m,?
+22/23,Matty Longstaff,22,Central Midfield,Colchester Utd.,Newcastle United,€1.00m,loan transfer
+22/23,Garang Kuol,18,Right Winger,Heart of Midl.,Newcastle United,€800k,loan transfer
+22/23,Ciaran Clark,32,Centre-Back,Sheff Utd,Newcastle United,€600k,loan transfer
+22/23,Jeff Hendrick,30,Central Midfield,Reading,Newcastle United,€1.50m,loan transfer
+22/23,Morgan Gibbs-White,22,Attacking Midfield,Nottingham Forest,Wolves,€40.00m,€29.50m
+22/23,Taiwo Awoniyi,24,Centre-Forward,Nottingham Forest,Union Berlin,€25.00m,€20.50m
+22/23,Danilo,21,Central Midfield,Nottingham Forest,Palmeiras,€28.00m,€20.00m
+22/23,Neco Williams,21,Right-Back,Nottingham Forest,Liverpool,€20.00m,€20.00m
+22/23,Emmanuel Dennis,24,Centre-Forward,Nottingham Forest,Watford,€8.00m,€14.80m
+22/23,Orel Mangala,24,Central Midfield,Nottingham Forest,VfB Stuttgart,€16.00m,€13.00m
+22/23,Giulian Biancone,22,Right-Back,Nottingham Forest,Troyes,€6.00m,€10.00m
+22/23,Moussa Niakhaté,26,Centre-Back,Nottingham Forest,1.FSV Mainz 05,€18.00m,€10.00m
+22/23,Lewis O'Brien,23,Central Midfield,Nottingham Forest,Huddersfield,€8.00m,€9.40m
+22/23,Remo Freuler,30,Central Midfield,Nottingham Forest,Atalanta BC,€8.00m,€9.00m
+22/23,Omar Richards,24,Left-Back,Nottingham Forest,Bayern Munich,€5.00m,€8.50m
+22/23,Jonjo Shelvey,30,Central Midfield,Nottingham Forest,Newcastle,€5.00m,€6.50m
+22/23,Renan Lodi,24,Left-Back,Nottingham Forest,Atlético Madrid,€20.00m,Loan fee:€5.00m
+22/23,Chris Wood,31,Centre-Forward,Nottingham Forest,Newcastle,€8.00m,Loan fee:€4.50m
+22/23,Ui-jo Hwang,29,Centre-Forward,Nottingham Forest,G. Bordeaux,€4.80m,€4.00m
+22/23,Willy Boly,31,Centre-Back,Nottingham Forest,Wolves,€2.50m,€2.60m
+22/23,Harry Toffolo,26,Left-Back,Nottingham Forest,Huddersfield,€3.50m,€2.40m
+22/23,Felipe,33,Centre-Back,Nottingham Forest,Atlético Madrid,€2.00m,€2.30m
+22/23,Josh Bowler,23,Right Winger,Nottingham Forest,Blackpool,€1.80m,€2.30m
+22/23,Brandon Aguilera,19,Attacking Midfield,Nottingham Forest,LD Alajuelense,€275k,€950k
+22/23,Cheikhou Kouyaté,32,Defensive Midfield,Nottingham Forest,Crystal Palace,€2.00m,free transfer
+22/23,Jesse Lingard,29,Attacking Midfield,Nottingham Forest,Man Utd,€8.00m,free transfer
+22/23,Gustavo Scarpa,28,Attacking Midfield,Nottingham Forest,Palmeiras,€10.00m,free transfer
+22/23,André Ayew,33,Left Winger,Nottingham Forest,Al-Sadd SC,€1.80m,free transfer
+22/23,Adnan Kanuric,22,Goalkeeper,Nottingham Forest,FK Sarajevo,€150k,free transfer
+22/23,Wayne Hennessey,35,Goalkeeper,Nottingham Forest,Burnley,€400k,free transfer
+22/23,Loïc Badé,22,Centre-Back,Nottingham Forest,Stade Rennais,€12.00m,loan transfer
+22/23,Keylor Navas,36,Goalkeeper,Nottingham Forest,Paris SG,€4.00m,loan transfer
+22/23,Dean Henderson,25,Goalkeeper,Nottingham Forest,Man Utd,€18.00m,loan transfer
+22/23,Serge Aurier,29,Right-Back,Nottingham Forest,Without Club,€8.00m,-
+22/23,Nikolas Ioannou,26,Left-Back,Nottingham Forest,Como,€750k,"End of loan: Jun 30, 2022"
+22/23,Nuno Da Costa,31,Centre-Forward,Nottingham Forest,SM Caen,€1.00m,"End of loan: Jun 30, 2022"
+22/23,Adnan Kanuric,22,Goalkeeper,Nottingham Forest,Oxford City,€150k,"End of loan: May 31, 2023"
+22/23,Carl Jenkinson,30,Right-Back,Nottingham Forest,Melbourne City,€450k,"End of loan: Jun 30, 2022"
+22/23,Jordan Smith,28,Goalkeeper,Nottingham Forest,Huddersfield,€250k,"End of loan: May 31, 2023"
+22/23,Jonathan Panzo,22,Centre-Back,Nottingham Forest,Coventry,€3.00m,"End of loan: May 31, 2023"
+22/23,Brandon Aguilera,19,Attacking Midfield,Nottingham Forest,Guanacasteca,€275k,"End of loan: Jan 2, 2023"
+22/23,Alex Mighten,20,Left Winger,Nottingham Forest,Sheff Wed,€600k,"End of loan: Jan 10, 2023"
+22/23,Josh Bowler,24,Right Winger,Nottingham Forest,Blackpool,€1.80m,"End of loan: May 31, 2023"
+22/23,Ui-jo Hwang,30,Centre-Forward,Nottingham Forest,Olympiacos,€4.80m,"End of loan: Jan 31, 2023"
+22/23,Josh Bowler,23,Right Winger,Nottingham Forest,Olympiacos,€1.80m,"End of loan: Jan 4, 2023"
+22/23,Brice Samba,28,Goalkeeper,Lens,Nottingham Forest,€13.00m,€5.00m
+22/23,Carl Jenkinson,30,Right-Back,Newcastle Jets,Nottingham Forest,€450k,free transfer
+22/23,Joe Lolley,29,Right Winger,Sydney FC,Nottingham Forest,€1.80m,free transfer
+22/23,Nuno Da Costa,31,Centre-Forward,AJ Auxerre,Nottingham Forest,€1.00m,free transfer
+22/23,Tobias Figueiredo,28,Centre-Back,Hull City,Nottingham Forest,€1.50m,free transfer
+22/23,Xande Silva,25,Right Winger,Dijon,Nottingham Forest,€700k,free transfer
+22/23,Lewis Grabban,34,Centre-Forward,Al-Ahli,Nottingham Forest,€250k,free transfer
+22/23,Nikolas Ioannou,26,Left-Back,Como,Nottingham Forest,€750k,free transfer
+22/23,Adnan Kanuric,22,Goalkeeper,Oxford City,Nottingham Forest,€150k,loan transfer
+22/23,Loïc Mbe Soh,21,Centre-Back,Guingamp,Nottingham Forest,€2.00m,loan transfer
+22/23,Josh Bowler,23,Right Winger,Blackpool,Nottingham Forest,€1.80m,loan transfer
+22/23,Lewis O'Brien,24,Central Midfield,D.C. United,Nottingham Forest,€8.00m,loan transfer
+22/23,Brandon Aguilera,19,Attacking Midfield,Estoril U23,Nottingham Forest,€275k,loan transfer
+22/23,Jordan Smith,28,Goalkeeper,Huddersfield,Nottingham Forest,€250k,loan transfer
+22/23,Ui-jo Hwang,30,Centre-Forward,FC Seoul,Nottingham Forest,€4.80m,loan transfer
+22/23,Josh Bowler,23,Right Winger,Olympiacos,Nottingham Forest,€1.80m,loan transfer
+22/23,Alex Mighten,20,Left Winger,Sheff Wed,Nottingham Forest,€600k,loan transfer
+22/23,Ui-jo Hwang,29,Centre-Forward,Olympiacos,Nottingham Forest,€4.80m,loan transfer
+22/23,Richie Laryea,27,Right-Back,Toronto,Nottingham Forest,€2.50m,loan transfer
+22/23,Braian Ojeda,22,Central Midfield,Salt Lake,Nottingham Forest,€3.00m,loan transfer
+22/23,Brandon Aguilera,19,Attacking Midfield,Guanacasteca,Nottingham Forest,€275k,loan transfer
+22/23,Ethan Horvath,27,Goalkeeper,Luton,Nottingham Forest,€1.50m,loan transfer
+22/23,Jonathan Panzo,21,Centre-Back,Coventry,Nottingham Forest,€3.00m,loan transfer
+22/23,Gaëtan Bong,34,Left-Back,Without Club,Nottingham Forest,€150k,-
+22/23,Dean Henderson,26,Goalkeeper,Man Utd,Nottingham Forest,€18.00m,"End of loan: May 31, 2023"
+22/23,Loïc Badé,22,Centre-Back,Stade Rennais,Nottingham Forest,€12.00m,"End of loan: Dec 31, 2022"
+22/23,Kamaldeen Sulemana,20,Left Winger,Southampton FC,Stade Rennais,€22.00m,€25.00m
+22/23,Roméo Lavia,18,Defensive Midfield,Southampton FC,Man City U21,€32.00m,€22.26m
+22/23,Paul Onuachu,28,Centre-Forward,Southampton FC,KRC Genk,€13.00m,€18.00m
+22/23,Gavin Bazunu,20,Goalkeeper,Southampton FC,Man City U21,€15.00m,€14.00m
+22/23,Carlos Alcaraz,20,Central Midfield,Southampton FC,Racing Club,€15.00m,€13.65m
+22/23,Sékou Mara,19,Centre-Forward,Southampton FC,G. Bordeaux,€10.00m,€11.50m
+22/23,Armel Bella-Kotchap,20,Centre-Back,Southampton FC,VfL Bochum,€20.00m,€11.00m
+22/23,Duje Caleta-Car,25,Centre-Back,Southampton FC,Marseille,€11.00m,€8.00m
+22/23,Samuel Edozie,19,Left Winger,Southampton FC,Man City U21,€8.00m,€8.00m
+22/23,Joe Aribo,25,Attacking Midfield,Southampton FC,Rangers,€11.00m,€7.10m
+22/23,Juan Larios,18,Left-Back,Southampton FC,Man City U21,€7.00m,€7.00m
+22/23,Mislav Orsic,30,Left Winger,Southampton FC,Dinamo Zagreb,€5.00m,€5.75m
+22/23,James Bree,25,Right-Back,Southampton FC,Luton,€2.00m,€850k
+22/23,Mateusz Lis,25,Goalkeeper,Southampton FC,Altay SK,€900k,free transfer
+22/23,Ainsley Maitland-Niles,25,Central Midfield,Southampton FC,Arsenal,€8.00m,loan transfer
+22/23,Jan Bednarek,26,Centre-Back,Southampton FC,Aston Villa,€14.00m,"End of loan: Jan 23, 2023"
+22/23,Will Smallbone,23,Central Midfield,Southampton FC,Stoke City,€3.50m,"End of loan: May 31, 2023"
+22/23,Dan Nlundulu,23,Centre-Forward,Southampton FC,Cheltenham,€900k,"End of loan: Jan 8, 2023"
+22/23,Nathan Tella,23,Right Winger,Southampton FC,Burnley,€18.00m,"End of loan: May 31, 2023"
+22/23,Dan Nlundulu,24,Centre-Forward,Southampton FC,Bolton,€900k,"End of loan: May 31, 2023"
+22/23,Jack Stephens,29,Centre-Back,Southampton FC,Bournemouth,€3.50m,"End of loan: May 31, 2023"
+22/23,Oriol Romeu,30,Defensive Midfield,Girona,Southampton FC,€5.00m,€5.50m
+22/23,Fraser Forster,34,Goalkeeper,Tottenham,Southampton FC,€1.50m,free transfer
+22/23,Nathan Redmond,28,Right Winger,Besiktas,Southampton FC,€10.00m,free transfer
+22/23,Harry Lewis,24,Goalkeeper,Bradford,Southampton FC,€350k,free transfer
+22/23,Shane Long,35,Centre-Forward,Reading,Southampton FC,€250k,free transfer
+22/23,Yan Valery,23,Right-Back,Angers SCO,Southampton FC,€2.00m,?
+22/23,Jack Stephens,28,Centre-Back,Bournemouth,Southampton FC,€3.50m,loan transfer
+22/23,Dan Nlundulu,23,Centre-Forward,Bolton,Southampton FC,€900k,loan transfer
+22/23,Dan Nlundulu,23,Centre-Forward,Cheltenham,Southampton FC,€900k,loan transfer
+22/23,Will Smallbone,22,Central Midfield,Stoke City,Southampton FC,€3.50m,loan transfer
+22/23,Jan Bednarek,26,Centre-Back,Aston Villa,Southampton FC,€14.00m,loan transfer
+22/23,Nathan Tella,23,Right Winger,Burnley,Southampton FC,€18.00m,loan transfer
+22/23,Mateusz Lis,25,Goalkeeper,Troyes,Southampton FC,€900k,loan transfer
+22/23,Ainsley Maitland-Niles,25,Central Midfield,Arsenal,Southampton FC,€8.00m,"End of loan: May 31, 2023"
+22/23,Richarlison,25,Centre-Forward,Tottenham Hotspur,Everton,€48.00m,€58.00m
+22/23,Cristian Romero,24,Centre-Back,Tottenham Hotspur,Atalanta BC,€60.00m,€50.00m
+22/23,Yves Bissouma,25,Central Midfield,Tottenham Hotspur,Brighton,€18.00m,€29.20m
+22/23,Destiny Udogie,19,Left-Back,Tottenham Hotspur,Udinese Calcio,€25.00m,€18.00m
+22/23,Djed Spence,21,Right-Back,Tottenham Hotspur,Middlesbrough,€10.00m,€14.70m
+22/23,Pedro Porro,23,Right-Back,Tottenham Hotspur,Sporting CP,€40.00m,Loan fee:€5.00m
+22/23,Arnaut Danjuma,25,Left Winger,Tottenham Hotspur,Villarreal,€25.00m,Loan fee:€3.00m
+22/23,Ivan Perisic,33,Left Midfield,Tottenham Hotspur,Inter,€7.00m,free transfer
+22/23,Fraser Forster,34,Goalkeeper,Tottenham Hotspur,Southampton,€1.50m,free transfer
+22/23,Clément Lenglet,27,Centre-Back,Tottenham Hotspur,Barcelona,€10.00m,loan transfer
+22/23,Alfie Whiteman,24,Goalkeeper,Tottenham Hotspur,Degerfors,€500k,"End of loan: Dec 31, 2022"
+22/23,Giovani Lo Celso,26,Attacking Midfield,Tottenham Hotspur,Villarreal,€14.00m,"End of loan: Jun 30, 2022"
+22/23,Bryan Gil,21,Left Winger,Tottenham Hotspur,Valencia,€15.00m,"End of loan: Jun 30, 2022"
+22/23,Tanguy Ndombélé,25,Central Midfield,Tottenham Hotspur,Olympique Lyon,€22.00m,"End of loan: Jun 30, 2022"
+22/23,Pape Matar Sarr,19,Central Midfield,Tottenham Hotspur,FC Metz,€15.00m,"End of loan: Jun 30, 2022"
+22/23,Steven Bergwijn,24,Left Winger,Ajax,Tottenham Hotspur,€22.00m,€31.25m
+22/23,Cameron Carter-Vickers,24,Centre-Back,Celtic,Tottenham Hotspur,€13.00m,€7.00m
+22/23,Tanguy Ndombélé,25,Central Midfield,SSC Napoli,Tottenham Hotspur,€22.00m,Loan fee:€500k
+22/23,Matt Doherty,31,Right-Back,Atlético Madrid,Tottenham Hotspur,€5.00m,free transfer
+22/23,Jack Clarke,21,Left Winger,Sunderland,Tottenham Hotspur,€12.00m,?
+22/23,Giovani Lo Celso,26,Attacking Midfield,Villarreal,Tottenham Hotspur,€14.00m,loan transfer
+22/23,Destiny Udogie,19,Left-Back,Udinese Calcio,Tottenham Hotspur,€25.00m,loan transfer
+22/23,Harry Winks,26,Defensive Midfield,Sampdoria,Tottenham Hotspur,€10.00m,loan transfer
+22/23,Sergio Reguilón,25,Left-Back,Atlético Madrid,Tottenham Hotspur,€10.00m,loan transfer
+22/23,Bryan Gil,21,Left Winger,Sevilla FC,Tottenham Hotspur,€15.00m,loan transfer
+22/23,Djed Spence,22,Right-Back,Stade Rennais,Tottenham Hotspur,€10.00m,loan transfer
+22/23,Joe Rodon,24,Centre-Back,Stade Rennais,Tottenham Hotspur,€7.00m,loan transfer
+22/23,Pierluigi Gollini,27,Goalkeeper,Atalanta BC,Tottenham Hotspur,€4.50m,"End of loan: Jun 30, 2022"
+22/23,Cristian Romero,24,Centre-Back,Atalanta BC,Tottenham Hotspur,€60.00m,"End of loan: Aug 29, 2022"
+22/23,Lucas Paquetá,25,Attacking Midfield,West Ham United,Olympique Lyon,€45.00m,€42.95m
+22/23,Nayef Aguerd,26,Centre-Back,West Ham United,Stade Rennais,€35.00m,€35.00m
+22/23,Gianluca Scamacca,23,Centre-Forward,West Ham United,Sassuolo,€22.00m,€28.50m
+22/23,Maxwel Cornet,25,Left Winger,West Ham United,Burnley,€12.00m,€20.70m
+22/23,Emerson Palmieri,28,Left-Back,West Ham United,Chelsea,€12.00m,€15.40m
+22/23,Danny Ings,30,Centre-Forward,West Ham United,Aston Villa,€12.00m,€12.00m
+22/23,Thilo Kehrer,25,Centre-Back,West Ham United,Paris SG,€18.00m,€12.00m
+22/23,Flynn Downes,23,Central Midfield,West Ham United,Swansea,€9.00m,€10.65m
+22/23,Alphonse Areola,29,Goalkeeper,West Ham United,Paris SG,€8.00m,€9.30m
+22/23,Luizão,20,Centre-Back,West Ham United,São Paulo,€1.00m,free transfer
+22/23,Joseph Anang,22,Goalkeeper,West Ham United,West Ham U21,€100k,-
+22/23,Nathan Trott,23,Goalkeeper,West Ham United,West Ham U21,€400k,-
+22/23,Conor Coventry,23,Defensive Midfield,West Ham United,Rotherham,€1.80m,"End of loan: May 31, 2023"
+22/23,Issa Diop,25,Centre-Back,Fulham,West Ham United,€18.00m,€17.80m
+22/23,Craig Dawson,32,Centre-Back,Wolves,West Ham United,€2.00m,€3.75m
+22/23,Ryan Fredericks,29,Right-Back,Bournemouth,West Ham United,€1.50m,free transfer
+22/23,Andriy Yarmolenko,32,Right Winger,Al-Ain FC,West Ham United,€2.00m,free transfer
+22/23,Darren Randolph,35,Goalkeeper,Bournemouth,West Ham United,€400k,free transfer
+22/23,Arthur Masuaku,28,Left-Back,Besiktas,West Ham United,€6.00m,loan transfer
+22/23,Nathan Trott,23,Goalkeeper,Vejle BK,West Ham United,€400k,loan transfer
+22/23,Conor Coventry,22,Defensive Midfield,Rotherham,West Ham United,€1.80m,loan transfer
+22/23,David Martin,36,Goalkeeper,Without Club,West Ham United,€75k,-
+22/23,Mark Noble,35,Central Midfield,Retired,West Ham United,-,-
+22/23,Nikola Vlasic,24,Attacking Midfield,Torino,West Ham United,€17.00m,loan transfer
+22/23,Alex Kral,24,Defensive Midfield,Spartak Moscow,West Ham United,€7.00m,"End of loan: Jun 30, 2022"
+22/23,Alphonse Areola,29,Goalkeeper,Paris SG,West Ham United,€8.00m,"End of loan: Jun 30, 2022"
+22/23,Matheus Nunes,23,Central Midfield,Wolverhampton Wanderers,Sporting CP,€45.00m,€45.00m
+22/23,Gonçalo Guedes,25,Left Winger,Wolverhampton Wanderers,Valencia,€23.00m,€32.60m
+22/23,Nathan Collins,21,Centre-Back,Wolverhampton Wanderers,Burnley,€22.00m,€24.30m
+22/23,João Gomes,21,Central Midfield,Wolverhampton Wanderers,Flamengo,€18.00m,€18.70m
+22/23,Sasa Kalajdzic,25,Centre-Forward,Wolverhampton Wanderers,VfB Stuttgart,€15.00m,€18.00m
+22/23,Hee-chan Hwang,26,Centre-Forward,Wolverhampton Wanderers,RB Leipzig,€12.00m,€16.70m
+22/23,Mario Lemina,29,Defensive Midfield,Wolverhampton Wanderers,OGC Nice,€10.00m,€11.00m
+22/23,Pablo Sarabia,30,Right Winger,Wolverhampton Wanderers,Paris SG,€14.00m,€5.00m
+22/23,Craig Dawson,32,Centre-Back,Wolverhampton Wanderers,West Ham,€2.00m,€3.75m
+22/23,Boubacar Traoré,21,Defensive Midfield,Wolverhampton Wanderers,FC Metz,€5.00m,Loan fee:€2.00m
+22/23,Daniel Bentley,29,Goalkeeper,Wolverhampton Wanderers,Bristol City,€2.00m,€57k
+22/23,Matheus Cunha,23,Centre-Forward,Wolverhampton Wanderers,Atlético Madrid,€25.00m,loan transfer
+22/23,Chem Campbell,19,Attacking Midfield,Wolverhampton Wanderers,Wolves U21,€1.00m,-
+22/23,Hugo Bueno,19,Left-Back,Wolverhampton Wanderers,Wolves U21,€6.00m,-
+22/23,Diego Costa,33,Centre-Forward,Wolverhampton Wanderers,Without Club,€2.00m,-
+22/23,Joe Hodge,19,Defensive Midfield,Wolverhampton Wanderers,Wolves U21,€2.00m,-
+22/23,Chem Campbell,20,Attacking Midfield,Wolverhampton Wanderers,Wycombe,€1.00m,"End of loan: May 31, 2023"
+22/23,Ki-Jana Hoever,21,Right-Back,Wolverhampton Wanderers,Stoke City,€3.50m,"End of loan: May 31, 2023"
+22/23,Matija Sarkic,25,Goalkeeper,Wolverhampton Wanderers,Stoke City,€2.00m,"End of loan: May 31, 2023"
+22/23,Fábio Silva,20,Centre-Forward,Wolverhampton Wanderers,RSC Anderlecht,€13.00m,"End of loan: Jan 24, 2023"
+22/23,Luke Cundle,21,Central Midfield,Wolverhampton Wanderers,Swansea,€3.00m,"End of loan: May 31, 2023"
+22/23,Ki-Jana Hoever,21,Right-Back,Wolverhampton Wanderers,PSV Eindhoven,€3.50m,"End of loan: Jan 25, 2023"
+22/23,Léo Bonatini,28,Centre-Forward,Wolverhampton Wanderers,Grasshoppers,€1.20m,"End of loan: Jun 30, 2022"
+22/23,Louie Moulden,20,Goalkeeper,Wolverhampton Wanderers,Solihull Moors,€200k,"End of loan: Jan 2, 2023"
+22/23,Ryan Giles,23,Left-Back,Wolverhampton Wanderers,Middlesbrough,€9.00m,"End of loan: May 31, 2023"
+22/23,Bruno Jordão,23,Central Midfield,Wolverhampton Wanderers,Grasshoppers,€1.30m,"End of loan: Jun 30, 2022"
+22/23,Adama Traoré,26,Right Winger,Wolverhampton Wanderers,Barcelona,€10.00m,"End of loan: Jun 30, 2022"
+22/23,Sang-bin Jeong,20,Centre-Forward,Wolverhampton Wanderers,Grasshoppers,€2.50m,"End of loan: Mar 17, 2023"
+22/23,Leonardo Campana,22,Centre-Forward,Wolverhampton Wanderers,Miami,€3.50m,"End of loan: Dec 31, 2022"
+22/23,Patrick Cutrone,24,Centre-Forward,Wolverhampton Wanderers,FC Empoli,€2.50m,"End of loan: Jun 30, 2022"
+22/23,Renat Dadashov,23,Centre-Forward,Wolverhampton Wanderers,Tondela,€1.60m,"End of loan: Jun 30, 2022"
+22/23,Rúben Vinagre,23,Left-Back,Wolverhampton Wanderers,Sporting CP,€4.00m,"End of loan: Jun 30, 2022"
+22/23,Morgan Gibbs-White,22,Attacking Midfield,Nottm Forest,Wolverhampton Wanderers,€40.00m,€29.50m
+22/23,Leander Dendoncker,27,Defensive Midfield,Aston Villa,Wolverhampton Wanderers,€15.00m,€15.00m
+22/23,Rúben Vinagre,23,Left-Back,Sporting CP,Wolverhampton Wanderers,€4.00m,€10.00m
+22/23,Leonardo Campana,22,Centre-Forward,Miami,Wolverhampton Wanderers,€3.50m,€2.70m
+22/23,Willy Boly,31,Centre-Back,Nottm Forest,Wolverhampton Wanderers,€2.50m,€2.60m
+22/23,Sang-bin Jeong,20,Centre-Forward,Minnesota,Wolverhampton Wanderers,€2.50m,€2.50m
+22/23,Connor Ronan,24,Central Midfield,Colorado,Wolverhampton Wanderers,€1.00m,€570k
+22/23,Marçal,33,Left-Back,Botafogo,Wolverhampton Wanderers,€1.00m,free transfer
+22/23,Romain Saïss,32,Centre-Back,Besiktas,Wolverhampton Wanderers,€5.00m,free transfer
+22/23,John Ruddy,35,Goalkeeper,Birmingham,Wolverhampton Wanderers,€300k,free transfer
+22/23,Léo Bonatini,28,Centre-Forward,San Luis,Wolverhampton Wanderers,€1.20m,free transfer
+22/23,Fábio Silva,20,Centre-Forward,PSV Eindhoven,Wolverhampton Wanderers,€13.00m,loan transfer
+22/23,Louie Moulden,20,Goalkeeper,Solihull Moors,Wolverhampton Wanderers,€200k,loan transfer
+22/23,Renat Dadashov,23,Centre-Forward,Grasshoppers,Wolverhampton Wanderers,€1.60m,?
+22/23,Patrick Cutrone,24,Centre-Forward,Como,Wolverhampton Wanderers,€2.50m,?
+22/23,Conor Coady,29,Centre-Back,Everton,Wolverhampton Wanderers,€12.00m,loan transfer
+22/23,Chem Campbell,20,Attacking Midfield,Wycombe,Wolverhampton Wanderers,€1.00m,loan transfer
+22/23,Gonçalo Guedes,26,Left Winger,Benfica,Wolverhampton Wanderers,€23.00m,loan transfer
+22/23,Ki-Jana Hoever,21,Right-Back,Stoke City,Wolverhampton Wanderers,€3.50m,loan transfer
+22/23,Fábio Silva,20,Centre-Forward,RSC Anderlecht,Wolverhampton Wanderers,€13.00m,loan transfer
+22/23,Yerson Mosquera,21,Centre-Back,Cincinnati,Wolverhampton Wanderers,€3.00m,loan transfer
+22/23,Ki-Jana Hoever,20,Right-Back,PSV Eindhoven,Wolverhampton Wanderers,€3.50m,loan transfer
+22/23,Ryan Giles,22,Left-Back,Middlesbrough,Wolverhampton Wanderers,€9.00m,loan transfer
+22/23,Luke Cundle,20,Central Midfield,Swansea,Wolverhampton Wanderers,€3.00m,loan transfer
+22/23,Bruno Jordão,23,Central Midfield,Santa Clara,Wolverhampton Wanderers,€1.30m,loan transfer
+22/23,Matija Sarkic,25,Goalkeeper,Stoke City,Wolverhampton Wanderers,€2.00m,loan transfer
+22/23,Hee-chan Hwang,26,Centre-Forward,RB Leipzig,Wolverhampton Wanderers,€12.00m,"End of loan: Jun 30, 2022"
+22/23,Trincão,22,Right Winger,Barcelona,Wolverhampton Wanderers,€15.00m,"End of loan: Jun 30, 2022"

@@ -17,8 +17,8 @@ class Transfer:
                 + '#' + self.club_left + '#' + self.mv + '#' + self.transfer_fee)
 
     @classmethod
-    def persist_transfer_data(cls, transfers):
-        with open('../data/transfers.csv', 'a') as csv_table:
+    def persist_transfer_data(cls, transfers, file):
+        with open('../data/' + str(file), 'a') as csv_table:
             writer = csv.writer(csv_table)
             for transfer in transfers:
                 formatted_transfer = transfer.__str__().split('#')
