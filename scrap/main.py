@@ -10,10 +10,15 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
 }
 
-LEAGUES = [] #to read
-START_SEASON = 1992
+START_SEASON = 2023
 END_SEASON = 2023
-TABLE_FILE = "new_table.csv"
+TABLE_FILE = "transfers.csv"
+
+
+def read_leagues():
+    with open("../data/league_data/all_leagues.txt", "r") as league_file:
+        leagues = [league.strip('\n') for league in league_file.readlines()]
+    return leagues
 
 
 def create_table(file):
@@ -24,7 +29,8 @@ def create_table(file):
 
 
 def get_urls(season, leagues):
-    while season < END_SEASON:
+    err_list = []
+    while season <= END_SEASON:
         for lg in leagues:
             url = 'https://www.transfermarkt.com/premier-league/transfers/wettbewerb/' + lg + '/plus/?saison_id=' \
                   + str(season) + '&s_w=&leihe=1&intern=0&intern=1'
@@ -32,24 +38,28 @@ def get_urls(season, leagues):
                 print("Trying to fetch: " + url)
                 html = requests.get(url, headers=headers)
                 print("Connection success, status code: " + str(html.status_code))
+
+                scrapped_league_data = scrap_url(html.text)
+                try:
+                    data_len = len(scrapped_league_data)
+                    if data_len > 0:
+                        Transfer.persist_transfer_data(scrapped_league_data, TABLE_FILE)
+                        print('\n' + str(data_len) + ' transfers were stored')
+                    else:
+                        print("No data stored")
+                except Exception:
+                    print("No data stored, caught in exception")
+
+                print('\nFetching next url... \n')
+
             except requests.exceptions.RequestException as err:
                 print("\nAn error occurred with the request: ")
                 print(err)
+                err_list.append(url)
 
-            scrapped_league_data = scrap_url(html.text)
-            try:
-                data_len = len(scrapped_league_data)
-                if data_len > 0:
-                    Transfer.persist_transfer_data(scrapped_league_data, TABLE_FILE)
-                    print('\n' + str(data_len) + ' transfers were stored')
-                else:
-                    print("No data stored")
-            except Exception:
-                print("No data stored")
-
-            print('\nFetching next url... \n')
 
         season = season + 1
+    return err_list
 
 
 def scrap_url(html_content):
@@ -96,9 +106,15 @@ def scrap_url(html_content):
 
 
 def main():
+    leagues = read_leagues()
+    print(leagues)
     create_table(TABLE_FILE)
-    get_urls(START_SEASON, LEAGUES)
-
+    err_s = get_urls(START_SEASON, leagues)
+    no_err = len(err_s)
+    print("Execution finished, errors: " + str(no_err))
+    if no_err > 0:
+        for err in err_s:
+            print(err)
 
 if __name__ == "__main__":
     main()
