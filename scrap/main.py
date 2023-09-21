@@ -10,8 +10,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
 }
 
-LEAGUES = ['BRA1', 'GB1', 'IT1', 'ES1', 'L1', 'FR1', 'TR1', 'SA1', 'JAP1', 'CSL', 'UAE1', 'RSK1', 'QSL',
-           'IRN1', 'IN1L', 'GR1', 'KR1', 'TS1', 'DK1', 'SER1', 'RO1', 'SE1', 'UNG1', 'ZYP1', 'BU1', 'MLS1', 'CDN1']
+LEAGUES = [] #to read
 START_SEASON = 1992
 END_SEASON = 2023
 TABLE_FILE = "new_table.csv"
