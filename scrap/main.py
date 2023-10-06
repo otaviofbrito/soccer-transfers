@@ -10,9 +10,10 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
 }
 
-START_SEASON = 2023
+START_SEASON = 1992
 END_SEASON = 2023
-TABLE_FILE = "transfers.csv"
+TRANSFERS_FILE = "transfers.csv"
+CLUBS_FILE = "clubs.csv"
 
 
 def read_leagues():
@@ -21,10 +22,9 @@ def read_leagues():
     return leagues
 
 
-def create_table(file):
+def create_table(file, header):
     with open('../data/' + str(file), 'w') as csv_table:
         writer = csv.writer(csv_table)
-        header = ['Season', 'Player', 'Age', 'Pos', 'Joined', 'Left', 'MV', 'Fee']
         writer.writerow(header)
 
 
@@ -43,7 +43,7 @@ def get_urls(season, leagues):
                 try:
                     data_len = len(scrapped_league_data)
                     if data_len > 0:
-                        Transfer.persist_transfer_data(scrapped_league_data, TABLE_FILE)
+                        Transfer.persist_transfer_data(scrapped_league_data, TRANSFERS_FILE)
                         print('\n' + str(data_len) + ' transfers were stored')
                     else:
                         print("No data stored")
@@ -56,7 +56,6 @@ def get_urls(season, leagues):
                 print("\nAn error occurred with the request: ")
                 print(err)
                 err_list.append(url)
-
 
         season = season + 1
     return err_list
@@ -108,13 +107,19 @@ def scrap_url(html_content):
 def main():
     leagues = read_leagues()
     print(leagues)
-    create_table(TABLE_FILE)
+
+    transfer_header = ['Season', 'Player', 'Age', 'Pos', 'Joined', 'Left', 'MV', 'Fee']
+    clubs_header = ['Club', 'League', 'Country', 'Season']
+    create_table(TRANSFERS_FILE, transfer_header)
+    create_table(CLUBS_FILE, clubs_header)
+
     err_s = get_urls(START_SEASON, leagues)
     no_err = len(err_s)
     print("Execution finished, errors: " + str(no_err))
     if no_err > 0:
         for err in err_s:
             print(err)
+
 
 if __name__ == "__main__":
     main()

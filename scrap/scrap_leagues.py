@@ -33,6 +33,7 @@ def get_url(current_pg, last_pg):
 
     return leagues
 
+
 def scrap_league_tag(html_content):
     league_tags = []
     soup = BeautifulSoup(html_content, features='lxml')
