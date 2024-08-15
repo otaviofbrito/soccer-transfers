@@ -57,4 +57,7 @@ sns.lmplot(
 plt.xlabel('Degree')
 plt.ylabel('Number of nodes')
 
+print("edges>" + str(G.number_of_edges()))
+print("nodes>" + str(G.number_of_nodes()))
+
 plt.savefig("output_plot.png")

@@ -1,7 +1,7 @@
 queries = {
     'get_all_clubs': "SELECT * FROM clubs",
     'get_all_not_loan_transfers': """ 
-                                      SELECT * FROM transfers t WHERE year = 1997 AND transfer_type = 'Not loan'
+                                      SELECT * FROM transfers t WHERE year = 2010 AND transfer_type = 'Not loan'
                                       AND left_club_id NOT IN (-5, 75, 515)
                                       AND joined_club_id NOT IN (-5, 75, 515)
                                     """
